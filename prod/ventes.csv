@@ -1,0 +1,1501 @@
+NumCommande,DateCommande,ProduitId,Region,Canal,Quantite,MontantHT,Statut,Environnement
+P2024-00001,2024-01-01,3,Bretagne,Commercial terrain,1,149.00,Validée,PROD
+P2024-00002,2024-01-01,5,Grand Est,Téléphone,1,161.10,Validée,PROD
+P2024-00003,2024-01-01,6,Provence-Alpes-Côte d'Azur,Web,4,476.00,Validée,PROD
+P2024-00004,2024-01-01,12,Grand Est,Partenaire,1,399.00,Validée,PROD
+P2024-00005,2024-01-02,7,Hauts-de-France,Partenaire,2,112.10,Validée,PROD
+P2024-00006,2024-01-03,9,Occitanie,Web,1,29.00,Validée,PROD
+P2024-00007,2024-01-03,11,Nouvelle-Aquitaine,Partenaire,1,94.05,Validée,PROD
+P2024-00008,2024-01-04,2,Grand Est,Téléphone,2,658.00,Validée,PROD
+P2024-00009,2024-01-04,2,Grand Est,Téléphone,2,592.20,Validée,PROD
+P2024-00010,2024-01-04,10,Île-de-France,Téléphone,4,76.00,Validée,PROD
+P2024-00011,2024-01-05,12,Auvergne-Rhône-Alpes,Commercial terrain,1,379.05,Validée,PROD
+P2024-00012,2024-01-06,5,Provence-Alpes-Côte d'Azur,Web,1,179.00,Annulée,PROD
+P2024-00013,2024-01-07,5,Île-de-France,Web,2,340.10,Validée,PROD
+P2024-00014,2024-01-07,9,Occitanie,Web,1,29.00,Validée,PROD
+P2024-00015,2024-01-08,2,Provence-Alpes-Côte d'Azur,Partenaire,1,329.00,Validée,PROD
+P2024-00016,2024-01-08,3,Auvergne-Rhône-Alpes,Partenaire,1,149.00,Validée,PROD
+P2024-00017,2024-01-08,9,Nouvelle-Aquitaine,Commercial terrain,1,29.00,Validée,PROD
+P2024-00018,2024-01-09,2,Nouvelle-Aquitaine,Web,1,312.55,Validée,PROD
+P2024-00019,2024-01-09,3,Nouvelle-Aquitaine,Web,2,298.00,Validée,PROD
+P2024-00020,2024-01-09,6,Provence-Alpes-Côte d'Azur,Partenaire,3,357.00,Validée,PROD
+P2024-00021,2024-01-09,11,Bretagne,Partenaire,2,198.00,Validée,PROD
+P2024-00022,2024-01-10,5,Provence-Alpes-Côte d'Azur,Web,1,170.05,Validée,PROD
+P2024-00023,2024-01-13,3,Auvergne-Rhône-Alpes,Téléphone,1,149.00,Validée,PROD
+P2024-00024,2024-01-13,7,Hauts-de-France,Commercial terrain,2,106.20,Validée,PROD
+P2024-00025,2024-01-14,5,Grand Est,Partenaire,2,358.00,Validée,PROD
+P2024-00026,2024-01-14,12,Hauts-de-France,Web,1,379.05,Validée,PROD
+P2024-00027,2024-01-15,2,Hauts-de-France,Téléphone,1,329.00,Validée,PROD
+P2024-00028,2024-01-15,4,Grand Est,Commercial terrain,3,699.30,Validée,PROD
+P2024-00029,2024-01-16,6,Grand Est,Téléphone,1,107.10,Validée,PROD
+P2024-00030,2024-01-16,7,Île-de-France,Partenaire,1,59.00,Validée,PROD
+P2024-00031,2024-01-17,4,Provence-Alpes-Côte d'Azur,Web,2,518.00,Validée,PROD
+P2024-00032,2024-01-17,7,Île-de-France,Téléphone,1,53.10,Validée,PROD
+P2024-00033,2024-01-18,1,Provence-Alpes-Côte d'Azur,Web,4,1760.40,Validée,PROD
+P2024-00034,2024-01-18,4,Provence-Alpes-Côte d'Azur,Téléphone,1,259.00,Validée,PROD
+P2024-00035,2024-01-18,4,Auvergne-Rhône-Alpes,Téléphone,2,518.00,Validée,PROD
+P2024-00036,2024-01-18,7,Nouvelle-Aquitaine,Web,1,53.10,Validée,PROD
+P2024-00037,2024-01-19,5,Hauts-de-France,Web,2,358.00,Validée,PROD
+P2024-00038,2024-01-19,6,Provence-Alpes-Côte d'Azur,Commercial terrain,1,113.05,Validée,PROD
+P2024-00039,2024-01-20,5,Bretagne,Commercial terrain,1,161.10,Annulée,PROD
+P2024-00040,2024-01-20,10,Île-de-France,Partenaire,2,38.00,Validée,PROD
+P2024-00041,2024-01-20,12,Grand Est,Téléphone,1,359.10,Validée,PROD
+P2024-00042,2024-01-21,5,Grand Est,Commercial terrain,1,179.00,Annulée,PROD
+P2024-00043,2024-01-23,4,Bretagne,Partenaire,1,246.05,Validée,PROD
+P2024-00044,2024-01-23,4,Bretagne,Téléphone,2,518.00,Validée,PROD
+P2024-00045,2024-01-23,11,Nouvelle-Aquitaine,Partenaire,2,198.00,Validée,PROD
+P2024-00046,2024-01-25,3,Grand Est,Téléphone,2,283.10,Validée,PROD
+P2024-00047,2024-01-25,7,Occitanie,Téléphone,2,118.00,Validée,PROD
+P2024-00048,2024-01-25,8,Île-de-France,Commercial terrain,4,556.00,Validée,PROD
+P2024-00049,2024-01-25,12,Grand Est,Téléphone,2,718.20,Validée,PROD
+P2024-00050,2024-01-26,3,Occitanie,Web,2,298.00,Validée,PROD
+P2024-00051,2024-01-26,10,Île-de-France,Téléphone,3,57.00,Validée,PROD
+P2024-00052,2024-01-27,11,Auvergne-Rhône-Alpes,Commercial terrain,2,198.00,Validée,PROD
+P2024-00053,2024-01-28,3,Nouvelle-Aquitaine,Web,1,141.55,Validée,PROD
+P2024-00054,2024-01-28,3,Grand Est,Commercial terrain,3,424.65,Validée,PROD
+P2024-00055,2024-01-29,2,Auvergne-Rhône-Alpes,Téléphone,1,296.10,Validée,PROD
+P2024-00056,2024-01-29,6,Bretagne,Partenaire,2,238.00,Validée,PROD
+P2024-00057,2024-01-29,6,Grand Est,Commercial terrain,3,321.30,Validée,PROD
+P2024-00058,2024-01-29,7,Bretagne,Téléphone,1,59.00,Annulée,PROD
+P2024-00059,2024-01-31,4,Bretagne,Commercial terrain,1,233.10,Annulée,PROD
+P2024-00060,2024-01-31,5,Île-de-France,Commercial terrain,1,179.00,Validée,PROD
+P2024-00061,2024-01-31,10,Grand Est,Partenaire,2,34.20,Validée,PROD
+P2024-00062,2024-02-01,5,Occitanie,Commercial terrain,2,358.00,Validée,PROD
+P2024-00063,2024-02-01,8,Hauts-de-France,Web,1,139.00,Validée,PROD
+P2024-00064,2024-02-02,3,Île-de-France,Web,1,149.00,Validée,PROD
+P2024-00065,2024-02-02,7,Nouvelle-Aquitaine,Commercial terrain,1,59.00,Validée,PROD
+P2024-00066,2024-02-03,1,Provence-Alpes-Côte d'Azur,Téléphone,4,1956.00,Validée,PROD
+P2024-00067,2024-02-03,3,Occitanie,Téléphone,4,596.00,Validée,PROD
+P2024-00068,2024-02-03,8,Provence-Alpes-Côte d'Azur,Partenaire,1,139.00,Annulée,PROD
+P2024-00069,2024-02-04,1,Île-de-France,Commercial terrain,3,1320.30,Validée,PROD
+P2024-00070,2024-02-04,12,Île-de-France,Partenaire,4,1596.00,Validée,PROD
+P2024-00071,2024-02-05,2,Provence-Alpes-Côte d'Azur,Web,1,312.55,Validée,PROD
+P2024-00072,2024-02-06,8,Provence-Alpes-Côte d'Azur,Téléphone,4,528.20,Validée,PROD
+P2024-00073,2024-02-06,10,Grand Est,Commercial terrain,3,54.15,Annulée,PROD
+P2024-00074,2024-02-07,9,Provence-Alpes-Côte d'Azur,Téléphone,1,29.00,Validée,PROD
+P2024-00075,2024-02-07,10,Île-de-France,Téléphone,1,18.05,Validée,PROD
+P2024-00076,2024-02-09,12,Île-de-France,Web,1,399.00,Validée,PROD
+P2024-00077,2024-02-10,4,Auvergne-Rhône-Alpes,Partenaire,1,246.05,Validée,PROD
+P2024-00078,2024-02-10,11,Occitanie,Partenaire,1,99.00,Validée,PROD
+P2024-00079,2024-02-11,11,Auvergne-Rhône-Alpes,Commercial terrain,3,297.00,Validée,PROD
+P2024-00080,2024-02-12,3,Occitanie,Commercial terrain,2,298.00,Validée,PROD
+P2024-00081,2024-02-12,10,Hauts-de-France,Partenaire,2,38.00,Validée,PROD
+P2024-00082,2024-02-12,10,Auvergne-Rhône-Alpes,Téléphone,3,57.00,Validée,PROD
+P2024-00083,2024-02-13,2,Provence-Alpes-Côte d'Azur,Téléphone,4,1316.00,Validée,PROD
+P2024-00084,2024-02-13,5,Auvergne-Rhône-Alpes,Partenaire,3,483.30,Validée,PROD
+P2024-00085,2024-02-14,1,Grand Est,Commercial terrain,4,1956.00,Validée,PROD
+P2024-00086,2024-02-15,2,Auvergne-Rhône-Alpes,Commercial terrain,1,329.00,Validée,PROD
+P2024-00087,2024-02-15,6,Nouvelle-Aquitaine,Web,2,238.00,Validée,PROD
+P2024-00088,2024-02-16,3,Hauts-de-France,Commercial terrain,1,141.55,Validée,PROD
+P2024-00089,2024-02-16,8,Nouvelle-Aquitaine,Partenaire,1,139.00,Validée,PROD
+P2024-00090,2024-02-17,4,Grand Est,Téléphone,4,984.20,Validée,PROD
+P2024-00091,2024-02-17,6,Île-de-France,Téléphone,1,119.00,Validée,PROD
+P2024-00092,2024-02-17,7,Bretagne,Partenaire,1,53.10,Annulée,PROD
+P2024-00093,2024-02-17,9,Bretagne,Téléphone,4,116.00,Validée,PROD
+P2024-00094,2024-02-18,3,Île-de-France,Commercial terrain,3,402.30,Annulée,PROD
+P2024-00095,2024-02-18,12,Bretagne,Téléphone,1,399.00,Validée,PROD
+P2024-00096,2024-02-18,12,Grand Est,Web,1,379.05,Validée,PROD
+P2024-00097,2024-02-19,6,Occitanie,Web,2,226.10,Validée,PROD
+P2024-00098,2024-02-20,3,Grand Est,Commercial terrain,3,447.00,Annulée,PROD
+P2024-00099,2024-02-20,8,Hauts-de-France,Téléphone,1,132.05,Validée,PROD
+P2024-00100,2024-02-20,10,Provence-Alpes-Côte d'Azur,Commercial terrain,1,19.00,Validée,PROD
+P2024-00101,2024-02-21,4,Occitanie,Téléphone,1,246.05,Validée,PROD
+P2024-00102,2024-02-22,1,Grand Est,Téléphone,1,464.55,Validée,PROD
+P2024-00103,2024-02-22,1,Bretagne,Partenaire,4,1956.00,Validée,PROD
+P2024-00104,2024-02-22,4,Occitanie,Partenaire,1,246.05,Validée,PROD
+P2024-00105,2024-02-22,5,Bretagne,Web,3,510.15,Validée,PROD
+P2024-00106,2024-02-22,7,Occitanie,Partenaire,2,112.10,Validée,PROD
+P2024-00107,2024-02-23,3,Provence-Alpes-Côte d'Azur,Partenaire,2,283.10,Validée,PROD
+P2024-00108,2024-02-23,8,Île-de-France,Web,1,132.05,Annulée,PROD
+P2024-00109,2024-02-24,8,Hauts-de-France,Commercial terrain,1,132.05,Validée,PROD
+P2024-00110,2024-02-24,10,Île-de-France,Commercial terrain,1,19.00,Validée,PROD
+P2024-00111,2024-02-24,12,Bretagne,Commercial terrain,3,1137.15,Validée,PROD
+P2024-00112,2024-02-25,4,Hauts-de-France,Téléphone,4,932.40,Validée,PROD
+P2024-00113,2024-02-25,5,Nouvelle-Aquitaine,Partenaire,1,179.00,Validée,PROD
+P2024-00114,2024-02-25,7,Occitanie,Téléphone,4,236.00,Annulée,PROD
+P2024-00115,2024-02-26,11,Hauts-de-France,Partenaire,1,99.00,Validée,PROD
+P2024-00116,2024-02-27,2,Île-de-France,Partenaire,1,329.00,Validée,PROD
+P2024-00117,2024-02-27,10,Grand Est,Commercial terrain,1,17.10,Validée,PROD
+P2024-00118,2024-02-28,7,Provence-Alpes-Côte d'Azur,Commercial terrain,3,177.00,Validée,PROD
+P2024-00119,2024-03-01,12,Provence-Alpes-Côte d'Azur,Commercial terrain,1,379.05,Validée,PROD
+P2024-00120,2024-03-02,1,Nouvelle-Aquitaine,Téléphone,1,440.10,Validée,PROD
+P2024-00121,2024-03-02,5,Hauts-de-France,Web,2,358.00,Validée,PROD
+P2024-00122,2024-03-02,7,Provence-Alpes-Côte d'Azur,Partenaire,3,159.30,Validée,PROD
+P2024-00123,2024-03-02,7,Provence-Alpes-Côte d'Azur,Commercial terrain,3,177.00,Validée,PROD
+P2024-00124,2024-03-03,2,Grand Est,Partenaire,1,296.10,Validée,PROD
+P2024-00125,2024-03-03,3,Provence-Alpes-Côte d'Azur,Partenaire,1,149.00,Validée,PROD
+P2024-00126,2024-03-03,3,Provence-Alpes-Côte d'Azur,Partenaire,2,298.00,Validée,PROD
+P2024-00127,2024-03-03,4,Nouvelle-Aquitaine,Téléphone,3,738.15,Validée,PROD
+P2024-00128,2024-03-03,4,Occitanie,Commercial terrain,4,932.40,Validée,PROD
+P2024-00129,2024-03-04,2,Auvergne-Rhône-Alpes,Commercial terrain,1,329.00,Validée,PROD
+P2024-00130,2024-03-05,12,Île-de-France,Commercial terrain,1,399.00,Validée,PROD
+P2024-00131,2024-03-05,12,Hauts-de-France,Téléphone,2,798.00,Validée,PROD
+P2024-00132,2024-03-06,2,Hauts-de-France,Téléphone,3,987.00,Validée,PROD
+P2024-00133,2024-03-06,5,Île-de-France,Commercial terrain,1,179.00,Validée,PROD
+P2024-00134,2024-03-09,2,Île-de-France,Web,3,987.00,Validée,PROD
+P2024-00135,2024-03-09,9,Nouvelle-Aquitaine,Téléphone,4,104.40,Validée,PROD
+P2024-00136,2024-03-10,1,Nouvelle-Aquitaine,Téléphone,1,440.10,Validée,PROD
+P2024-00137,2024-03-10,6,Hauts-de-France,Téléphone,1,119.00,Validée,PROD
+P2024-00138,2024-03-10,8,Nouvelle-Aquitaine,Commercial terrain,1,139.00,Validée,PROD
+P2024-00139,2024-03-10,10,Île-de-France,Web,1,19.00,Validée,PROD
+P2024-00140,2024-03-11,7,Grand Est,Partenaire,1,59.00,Validée,PROD
+P2024-00141,2024-03-12,3,Occitanie,Partenaire,1,141.55,Validée,PROD
+P2024-00142,2024-03-12,12,Auvergne-Rhône-Alpes,Web,2,758.10,Validée,PROD
+P2024-00143,2024-03-13,10,Nouvelle-Aquitaine,Partenaire,3,57.00,Validée,PROD
+P2024-00144,2024-03-15,6,Bretagne,Commercial terrain,1,107.10,Validée,PROD
+P2024-00145,2024-03-15,12,Bretagne,Commercial terrain,1,399.00,Validée,PROD
+P2024-00146,2024-03-16,2,Provence-Alpes-Côte d'Azur,Partenaire,1,329.00,Validée,PROD
+P2024-00147,2024-03-16,5,Île-de-France,Commercial terrain,1,179.00,Validée,PROD
+P2024-00148,2024-03-16,5,Île-de-France,Téléphone,2,322.20,Validée,PROD
+P2024-00149,2024-03-20,2,Bretagne,Commercial terrain,1,329.00,Validée,PROD
+P2024-00150,2024-03-20,7,Auvergne-Rhône-Alpes,Partenaire,1,59.00,Validée,PROD
+P2024-00151,2024-03-22,1,Provence-Alpes-Côte d'Azur,Commercial terrain,1,440.10,Validée,PROD
+P2024-00152,2024-03-22,9,Auvergne-Rhône-Alpes,Téléphone,1,29.00,Validée,PROD
+P2024-00153,2024-03-23,12,Grand Est,Web,1,379.05,Validée,PROD
+P2024-00154,2024-03-24,6,Occitanie,Web,1,119.00,Validée,PROD
+P2024-00155,2024-03-24,11,Provence-Alpes-Côte d'Azur,Web,3,297.00,Annulée,PROD
+P2024-00156,2024-03-25,2,Île-de-France,Web,2,658.00,Validée,PROD
+P2024-00157,2024-03-25,12,Occitanie,Web,1,399.00,Validée,PROD
+P2024-00158,2024-03-26,1,Auvergne-Rhône-Alpes,Web,1,489.00,Validée,PROD
+P2024-00159,2024-03-26,1,Occitanie,Partenaire,2,880.20,Validée,PROD
+P2024-00160,2024-03-26,2,Occitanie,Partenaire,2,658.00,Validée,PROD
+P2024-00161,2024-03-26,5,Grand Est,Partenaire,2,340.10,Validée,PROD
+P2024-00162,2024-03-26,8,Grand Est,Téléphone,4,556.00,Validée,PROD
+P2024-00163,2024-03-29,1,Provence-Alpes-Côte d'Azur,Web,1,464.55,Validée,PROD
+P2024-00164,2024-03-30,3,Grand Est,Web,1,149.00,Validée,PROD
+P2024-00165,2024-03-30,4,Grand Est,Téléphone,1,259.00,Validée,PROD
+P2024-00166,2024-03-31,4,Hauts-de-France,Web,1,233.10,Validée,PROD
+P2024-00167,2024-03-31,12,Bretagne,Téléphone,1,399.00,Validée,PROD
+P2024-00168,2024-04-01,1,Hauts-de-France,Web,2,978.00,Validée,PROD
+P2024-00169,2024-04-01,3,Occitanie,Téléphone,2,283.10,Validée,PROD
+P2024-00170,2024-04-01,3,Auvergne-Rhône-Alpes,Partenaire,4,596.00,Validée,PROD
+P2024-00171,2024-04-01,5,Provence-Alpes-Côte d'Azur,Commercial terrain,1,179.00,Validée,PROD
+P2024-00172,2024-04-02,3,Provence-Alpes-Côte d'Azur,Commercial terrain,1,141.55,Annulée,PROD
+P2024-00173,2024-04-02,3,Grand Est,Partenaire,3,424.65,Validée,PROD
+P2024-00174,2024-04-03,10,Bretagne,Commercial terrain,3,57.00,Annulée,PROD
+P2024-00175,2024-04-04,9,Occitanie,Commercial terrain,1,29.00,Validée,PROD
+P2024-00176,2024-04-04,11,Auvergne-Rhône-Alpes,Téléphone,4,356.40,Validée,PROD
+P2024-00177,2024-04-05,11,Grand Est,Partenaire,1,99.00,Validée,PROD
+P2024-00178,2024-04-05,11,Hauts-de-France,Téléphone,3,297.00,Validée,PROD
+P2024-00179,2024-04-06,6,Bretagne,Commercial terrain,1,107.10,Validée,PROD
+P2024-00180,2024-04-06,10,Hauts-de-France,Commercial terrain,1,18.05,Validée,PROD
+P2024-00181,2024-04-06,11,Provence-Alpes-Côte d'Azur,Web,4,356.40,Validée,PROD
+P2024-00182,2024-04-07,2,Auvergne-Rhône-Alpes,Partenaire,2,592.20,Validée,PROD
+P2024-00183,2024-04-07,3,Nouvelle-Aquitaine,Commercial terrain,1,149.00,Validée,PROD
+P2024-00184,2024-04-07,3,Nouvelle-Aquitaine,Commercial terrain,4,596.00,Validée,PROD
+P2024-00185,2024-04-07,12,Provence-Alpes-Côte d'Azur,Commercial terrain,3,1197.00,Validée,PROD
+P2024-00186,2024-04-08,3,Hauts-de-France,Commercial terrain,1,141.55,Validée,PROD
+P2024-00187,2024-04-08,7,Grand Est,Commercial terrain,1,56.05,Validée,PROD
+P2024-00188,2024-04-08,7,Bretagne,Web,2,118.00,Validée,PROD
+P2024-00189,2024-04-09,10,Nouvelle-Aquitaine,Partenaire,1,19.00,Validée,PROD
+P2024-00190,2024-04-10,3,Occitanie,Commercial terrain,2,298.00,Validée,PROD
+P2024-00191,2024-04-10,9,Grand Est,Commercial terrain,1,27.55,Validée,PROD
+P2024-00192,2024-04-11,8,Nouvelle-Aquitaine,Commercial terrain,2,278.00,Validée,PROD
+P2024-00193,2024-04-11,10,Grand Est,Commercial terrain,4,76.00,Validée,PROD
+P2024-00194,2024-04-13,9,Provence-Alpes-Côte d'Azur,Web,2,58.00,Validée,PROD
+P2024-00195,2024-04-13,10,Grand Est,Web,2,36.10,Validée,PROD
+P2024-00196,2024-04-14,1,Auvergne-Rhône-Alpes,Commercial terrain,1,489.00,Validée,PROD
+P2024-00197,2024-04-14,11,Nouvelle-Aquitaine,Partenaire,2,198.00,Validée,PROD
+P2024-00198,2024-04-14,11,Auvergne-Rhône-Alpes,Commercial terrain,2,198.00,Validée,PROD
+P2024-00199,2024-04-15,7,Nouvelle-Aquitaine,Partenaire,1,56.05,Validée,PROD
+P2024-00200,2024-04-15,7,Occitanie,Commercial terrain,4,236.00,Validée,PROD
+P2024-00201,2024-04-15,11,Auvergne-Rhône-Alpes,Téléphone,4,396.00,Validée,PROD
+P2024-00202,2024-04-16,3,Occitanie,Téléphone,3,447.00,Validée,PROD
+P2024-00203,2024-04-16,6,Hauts-de-France,Web,4,476.00,Validée,PROD
+P2024-00204,2024-04-16,11,Occitanie,Téléphone,1,99.00,Validée,PROD
+P2024-00205,2024-04-17,4,Bretagne,Commercial terrain,2,492.10,Validée,PROD
+P2024-00206,2024-04-17,5,Bretagne,Téléphone,4,716.00,Validée,PROD
+P2024-00207,2024-04-17,9,Bretagne,Partenaire,2,55.10,Validée,PROD
+P2024-00208,2024-04-17,10,Bretagne,Partenaire,1,19.00,Validée,PROD
+P2024-00209,2024-04-18,1,Provence-Alpes-Côte d'Azur,Commercial terrain,2,978.00,Validée,PROD
+P2024-00210,2024-04-18,4,Hauts-de-France,Téléphone,2,518.00,Validée,PROD
+P2024-00211,2024-04-18,9,Occitanie,Partenaire,2,58.00,Annulée,PROD
+P2024-00212,2024-04-19,10,Grand Est,Commercial terrain,2,38.00,Validée,PROD
+P2024-00213,2024-04-22,1,Provence-Alpes-Côte d'Azur,Commercial terrain,4,1760.40,Validée,PROD
+P2024-00214,2024-04-23,1,Nouvelle-Aquitaine,Web,2,880.20,Annulée,PROD
+P2024-00215,2024-04-23,7,Auvergne-Rhône-Alpes,Commercial terrain,1,59.00,Validée,PROD
+P2024-00216,2024-04-23,10,Provence-Alpes-Côte d'Azur,Commercial terrain,1,19.00,Validée,PROD
+P2024-00217,2024-04-23,11,Bretagne,Téléphone,2,198.00,Validée,PROD
+P2024-00218,2024-04-24,4,Provence-Alpes-Côte d'Azur,Commercial terrain,1,259.00,Validée,PROD
+P2024-00219,2024-04-24,7,Nouvelle-Aquitaine,Commercial terrain,1,59.00,Validée,PROD
+P2024-00220,2024-04-25,9,Provence-Alpes-Côte d'Azur,Partenaire,3,87.00,Validée,PROD
+P2024-00221,2024-04-26,5,Île-de-France,Téléphone,1,170.05,Validée,PROD
+P2024-00222,2024-04-26,5,Île-de-France,Partenaire,3,483.30,Validée,PROD
+P2024-00223,2024-04-26,12,Auvergne-Rhône-Alpes,Commercial terrain,1,399.00,Validée,PROD
+P2024-00224,2024-04-27,2,Occitanie,Téléphone,2,625.10,Validée,PROD
+P2024-00225,2024-04-27,4,Occitanie,Web,1,233.10,Validée,PROD
+P2024-00226,2024-04-28,3,Provence-Alpes-Côte d'Azur,Partenaire,4,536.40,Validée,PROD
+P2024-00227,2024-04-28,5,Hauts-de-France,Web,1,179.00,Validée,PROD
+P2024-00228,2024-04-28,6,Occitanie,Téléphone,4,476.00,Validée,PROD
+P2024-00229,2024-04-29,4,Occitanie,Partenaire,1,259.00,Validée,PROD
+P2024-00230,2024-04-29,5,Hauts-de-France,Commercial terrain,2,358.00,Validée,PROD
+P2024-00231,2024-04-29,6,Occitanie,Téléphone,3,339.15,Annulée,PROD
+P2024-00232,2024-04-29,6,Occitanie,Web,4,476.00,Validée,PROD
+P2024-00233,2024-04-29,11,Occitanie,Commercial terrain,1,89.10,Validée,PROD
+P2024-00234,2024-04-30,1,Île-de-France,Partenaire,1,440.10,Validée,PROD
+P2024-00235,2024-05-01,1,Auvergne-Rhône-Alpes,Partenaire,3,1393.65,Validée,PROD
+P2024-00236,2024-05-01,8,Nouvelle-Aquitaine,Web,1,125.10,Validée,PROD
+P2024-00237,2024-05-02,1,Provence-Alpes-Côte d'Azur,Commercial terrain,3,1467.00,Validée,PROD
+P2024-00238,2024-05-02,8,Île-de-France,Partenaire,2,250.20,Validée,PROD
+P2024-00239,2024-05-02,10,Provence-Alpes-Côte d'Azur,Commercial terrain,2,36.10,Validée,PROD
+P2024-00240,2024-05-02,12,Provence-Alpes-Côte d'Azur,Web,2,798.00,Validée,PROD
+P2024-00241,2024-05-03,7,Auvergne-Rhône-Alpes,Partenaire,2,118.00,Validée,PROD
+P2024-00242,2024-05-04,3,Provence-Alpes-Côte d'Azur,Web,2,268.20,Validée,PROD
+P2024-00243,2024-05-04,5,Grand Est,Partenaire,1,179.00,Validée,PROD
+P2024-00244,2024-05-04,9,Nouvelle-Aquitaine,Web,1,29.00,Validée,PROD
+P2024-00245,2024-05-04,10,Grand Est,Web,1,19.00,Validée,PROD
+P2024-00246,2024-05-07,11,Hauts-de-France,Commercial terrain,1,89.10,Annulée,PROD
+P2024-00247,2024-05-07,12,Occitanie,Commercial terrain,1,399.00,Annulée,PROD
+P2024-00248,2024-05-08,5,Provence-Alpes-Côte d'Azur,Commercial terrain,2,358.00,Validée,PROD
+P2024-00249,2024-05-08,6,Provence-Alpes-Côte d'Azur,Web,1,113.05,Validée,PROD
+P2024-00250,2024-05-08,8,Île-de-France,Commercial terrain,1,139.00,Validée,PROD
+P2024-00251,2024-05-09,3,Grand Est,Commercial terrain,2,268.20,Validée,PROD
+P2024-00252,2024-05-09,3,Grand Est,Web,2,283.10,Validée,PROD
+P2024-00253,2024-05-09,7,Auvergne-Rhône-Alpes,Web,2,118.00,Annulée,PROD
+P2024-00254,2024-05-10,3,Auvergne-Rhône-Alpes,Téléphone,3,447.00,Validée,PROD
+P2024-00255,2024-05-11,2,Auvergne-Rhône-Alpes,Téléphone,3,987.00,Validée,PROD
+P2024-00256,2024-05-11,8,Nouvelle-Aquitaine,Téléphone,2,264.10,Validée,PROD
+P2024-00257,2024-05-11,12,Nouvelle-Aquitaine,Commercial terrain,1,399.00,Validée,PROD
+P2024-00258,2024-05-12,1,Occitanie,Partenaire,4,1858.20,Validée,PROD
+P2024-00259,2024-05-12,11,Île-de-France,Téléphone,1,89.10,Validée,PROD
+P2024-00260,2024-05-13,2,Hauts-de-France,Partenaire,1,329.00,Validée,PROD
+P2024-00261,2024-05-13,4,Bretagne,Commercial terrain,1,259.00,Validée,PROD
+P2024-00262,2024-05-13,7,Nouvelle-Aquitaine,Commercial terrain,2,112.10,Validée,PROD
+P2024-00263,2024-05-13,10,Île-de-France,Commercial terrain,3,57.00,Validée,PROD
+P2024-00264,2024-05-15,4,Provence-Alpes-Côte d'Azur,Partenaire,1,246.05,Validée,PROD
+P2024-00265,2024-05-16,4,Occitanie,Téléphone,3,699.30,Validée,PROD
+P2024-00266,2024-05-17,12,Île-de-France,Commercial terrain,1,399.00,Validée,PROD
+P2024-00267,2024-05-19,10,Grand Est,Commercial terrain,4,68.40,Validée,PROD
+P2024-00268,2024-05-19,12,Auvergne-Rhône-Alpes,Partenaire,3,1197.00,Validée,PROD
+P2024-00269,2024-05-20,4,Grand Est,Partenaire,2,518.00,Validée,PROD
+P2024-00270,2024-05-20,11,Grand Est,Commercial terrain,2,188.10,Validée,PROD
+P2024-00271,2024-05-20,12,Île-de-France,Commercial terrain,1,359.10,Validée,PROD
+P2024-00272,2024-05-20,12,Île-de-France,Commercial terrain,4,1596.00,Validée,PROD
+P2024-00273,2024-05-21,1,Grand Est,Téléphone,4,1956.00,Validée,PROD
+P2024-00274,2024-05-21,9,Île-de-France,Commercial terrain,3,87.00,Validée,PROD
+P2024-00275,2024-05-21,10,Occitanie,Téléphone,3,57.00,Validée,PROD
+P2024-00276,2024-05-21,11,Auvergne-Rhône-Alpes,Web,2,198.00,Validée,PROD
+P2024-00277,2024-05-22,4,Auvergne-Rhône-Alpes,Téléphone,2,518.00,Validée,PROD
+P2024-00278,2024-05-22,6,Provence-Alpes-Côte d'Azur,Commercial terrain,1,119.00,Validée,PROD
+P2024-00279,2024-05-22,11,Hauts-de-France,Web,3,297.00,Validée,PROD
+P2024-00280,2024-05-23,1,Provence-Alpes-Côte d'Azur,Téléphone,2,880.20,Validée,PROD
+P2024-00281,2024-05-23,1,Grand Est,Commercial terrain,2,929.10,Validée,PROD
+P2024-00282,2024-05-23,3,Grand Est,Web,1,149.00,Validée,PROD
+P2024-00283,2024-05-23,4,Grand Est,Partenaire,1,259.00,Validée,PROD
+P2024-00284,2024-05-23,6,Occitanie,Téléphone,1,113.05,Validée,PROD
+P2024-00285,2024-05-23,6,Auvergne-Rhône-Alpes,Web,2,238.00,Validée,PROD
+P2024-00286,2024-05-23,8,Bretagne,Partenaire,2,264.10,Validée,PROD
+P2024-00287,2024-05-24,6,Nouvelle-Aquitaine,Téléphone,1,113.05,Validée,PROD
+P2024-00288,2024-05-24,7,Bretagne,Partenaire,1,59.00,Validée,PROD
+P2024-00289,2024-05-26,8,Grand Est,Téléphone,1,125.10,Validée,PROD
+P2024-00290,2024-05-26,12,Nouvelle-Aquitaine,Téléphone,2,718.20,Validée,PROD
+P2024-00291,2024-05-27,2,Bretagne,Partenaire,1,312.55,Validée,PROD
+P2024-00292,2024-05-27,3,Nouvelle-Aquitaine,Web,4,566.20,Validée,PROD
+P2024-00293,2024-05-28,1,Occitanie,Partenaire,1,489.00,Validée,PROD
+P2024-00294,2024-05-28,4,Occitanie,Téléphone,3,699.30,Validée,PROD
+P2024-00295,2024-05-28,9,Hauts-de-France,Web,3,87.00,Validée,PROD
+P2024-00296,2024-05-28,11,Grand Est,Partenaire,2,198.00,Validée,PROD
+P2024-00297,2024-05-28,12,Bretagne,Web,2,718.20,Validée,PROD
+P2024-00298,2024-05-29,4,Provence-Alpes-Côte d'Azur,Partenaire,1,259.00,Validée,PROD
+P2024-00299,2024-05-30,11,Occitanie,Téléphone,4,376.20,Validée,PROD
+P2024-00300,2024-05-31,9,Nouvelle-Aquitaine,Téléphone,2,58.00,Validée,PROD
+P2024-00301,2024-05-31,11,Auvergne-Rhône-Alpes,Téléphone,2,188.10,Validée,PROD
+P2024-00302,2024-06-01,4,Grand Est,Téléphone,2,466.20,Validée,PROD
+P2024-00303,2024-06-01,10,Île-de-France,Téléphone,2,34.20,Validée,PROD
+P2024-00304,2024-06-02,8,Bretagne,Partenaire,2,250.20,Validée,PROD
+P2024-00305,2024-06-02,9,Nouvelle-Aquitaine,Téléphone,3,87.00,Validée,PROD
+P2024-00306,2024-06-02,10,Auvergne-Rhône-Alpes,Partenaire,1,19.00,Validée,PROD
+P2024-00307,2024-06-02,12,Occitanie,Téléphone,1,359.10,Validée,PROD
+P2024-00308,2024-06-03,6,Bretagne,Téléphone,1,113.05,Validée,PROD
+P2024-00309,2024-06-03,8,Hauts-de-France,Téléphone,3,417.00,Validée,PROD
+P2024-00310,2024-06-04,11,Hauts-de-France,Commercial terrain,1,89.10,Validée,PROD
+P2024-00311,2024-06-04,11,Auvergne-Rhône-Alpes,Partenaire,3,297.00,Validée,PROD
+P2024-00312,2024-06-05,7,Nouvelle-Aquitaine,Commercial terrain,2,118.00,Validée,PROD
+P2024-00313,2024-06-05,9,Île-de-France,Partenaire,2,58.00,Validée,PROD
+P2024-00314,2024-06-06,4,Île-de-France,Partenaire,1,259.00,Validée,PROD
+P2024-00315,2024-06-06,12,Nouvelle-Aquitaine,Téléphone,2,798.00,Validée,PROD
+P2024-00316,2024-06-07,1,Provence-Alpes-Côte d'Azur,Téléphone,2,978.00,Validée,PROD
+P2024-00317,2024-06-07,1,Île-de-France,Web,3,1467.00,Validée,PROD
+P2024-00318,2024-06-07,6,Île-de-France,Web,4,452.20,Validée,PROD
+P2024-00319,2024-06-07,9,Nouvelle-Aquitaine,Partenaire,4,104.40,Validée,PROD
+P2024-00320,2024-06-08,4,Hauts-de-France,Téléphone,1,259.00,Annulée,PROD
+P2024-00321,2024-06-08,4,Auvergne-Rhône-Alpes,Partenaire,1,233.10,Validée,PROD
+P2024-00322,2024-06-10,3,Auvergne-Rhône-Alpes,Téléphone,1,134.10,Annulée,PROD
+P2024-00323,2024-06-12,1,Hauts-de-France,Web,1,489.00,Annulée,PROD
+P2024-00324,2024-06-12,2,Nouvelle-Aquitaine,Partenaire,1,296.10,Validée,PROD
+P2024-00325,2024-06-12,4,Île-de-France,Commercial terrain,3,777.00,Validée,PROD
+P2024-00326,2024-06-13,10,Île-de-France,Téléphone,3,54.15,Validée,PROD
+P2024-00327,2024-06-13,12,Auvergne-Rhône-Alpes,Web,3,1197.00,Validée,PROD
+P2024-00328,2024-06-14,5,Île-de-France,Commercial terrain,4,644.40,Validée,PROD
+P2024-00329,2024-06-14,8,Grand Est,Commercial terrain,4,556.00,Validée,PROD
+P2024-00330,2024-06-14,12,Hauts-de-France,Commercial terrain,2,758.10,Validée,PROD
+P2024-00331,2024-06-15,2,Auvergne-Rhône-Alpes,Téléphone,1,329.00,Validée,PROD
+P2024-00332,2024-06-16,7,Bretagne,Web,1,56.05,Validée,PROD
+P2024-00333,2024-06-17,12,Provence-Alpes-Côte d'Azur,Partenaire,1,399.00,Validée,PROD
+P2024-00334,2024-06-18,6,Grand Est,Commercial terrain,3,357.00,Validée,PROD
+P2024-00335,2024-06-19,5,Grand Est,Web,2,322.20,Validée,PROD
+P2024-00336,2024-06-20,3,Auvergne-Rhône-Alpes,Commercial terrain,3,402.30,Validée,PROD
+P2024-00337,2024-06-21,2,Hauts-de-France,Téléphone,1,329.00,Validée,PROD
+P2024-00338,2024-06-23,2,Grand Est,Commercial terrain,2,658.00,Validée,PROD
+P2024-00339,2024-06-23,3,Bretagne,Partenaire,1,149.00,Validée,PROD
+P2024-00340,2024-06-24,11,Grand Est,Web,1,94.05,Validée,PROD
+P2024-00341,2024-06-25,6,Auvergne-Rhône-Alpes,Web,2,238.00,Validée,PROD
+P2024-00342,2024-06-25,7,Provence-Alpes-Côte d'Azur,Web,1,59.00,Validée,PROD
+P2024-00343,2024-06-27,4,Nouvelle-Aquitaine,Téléphone,3,777.00,Validée,PROD
+P2024-00344,2024-06-27,7,Bretagne,Partenaire,4,212.40,Annulée,PROD
+P2024-00345,2024-06-27,12,Provence-Alpes-Côte d'Azur,Partenaire,1,399.00,Validée,PROD
+P2024-00346,2024-06-28,5,Auvergne-Rhône-Alpes,Web,1,179.00,Validée,PROD
+P2024-00347,2024-06-28,5,Nouvelle-Aquitaine,Partenaire,2,358.00,Validée,PROD
+P2024-00348,2024-06-29,10,Nouvelle-Aquitaine,Partenaire,1,19.00,Validée,PROD
+P2024-00349,2024-06-30,2,Hauts-de-France,Commercial terrain,4,1184.40,Validée,PROD
+P2024-00350,2024-06-30,5,Occitanie,Web,1,170.05,Validée,PROD
+P2024-00351,2024-06-30,5,Île-de-France,Téléphone,2,322.20,Validée,PROD
+P2024-00352,2024-06-30,7,Grand Est,Partenaire,1,59.00,Validée,PROD
+P2024-00353,2024-06-30,10,Provence-Alpes-Côte d'Azur,Commercial terrain,1,17.10,Validée,PROD
+P2024-00354,2024-07-01,4,Nouvelle-Aquitaine,Téléphone,2,518.00,Validée,PROD
+P2024-00355,2024-07-01,10,Auvergne-Rhône-Alpes,Partenaire,2,38.00,Validée,PROD
+P2024-00356,2024-07-01,12,Nouvelle-Aquitaine,Web,4,1596.00,Validée,PROD
+P2024-00357,2024-07-02,6,Grand Est,Partenaire,1,119.00,Validée,PROD
+P2024-00358,2024-07-02,7,Île-de-France,Commercial terrain,1,56.05,Validée,PROD
+P2024-00359,2024-07-03,4,Bretagne,Commercial terrain,4,1036.00,Validée,PROD
+P2024-00360,2024-07-03,5,Grand Est,Web,3,537.00,Validée,PROD
+P2024-00361,2024-07-04,4,Hauts-de-France,Commercial terrain,2,466.20,Validée,PROD
+P2024-00362,2024-07-04,6,Grand Est,Web,1,119.00,Validée,PROD
+P2024-00363,2024-07-05,3,Auvergne-Rhône-Alpes,Commercial terrain,2,298.00,Validée,PROD
+P2024-00364,2024-07-05,8,Provence-Alpes-Côte d'Azur,Téléphone,4,556.00,Validée,PROD
+P2024-00365,2024-07-05,12,Hauts-de-France,Téléphone,2,718.20,Validée,PROD
+P2024-00366,2024-07-07,8,Île-de-France,Partenaire,1,132.05,Validée,PROD
+P2024-00367,2024-07-08,3,Nouvelle-Aquitaine,Téléphone,1,149.00,Validée,PROD
+P2024-00368,2024-07-09,7,Île-de-France,Téléphone,2,118.00,Validée,PROD
+P2024-00369,2024-07-10,4,Hauts-de-France,Web,1,246.05,Validée,PROD
+P2024-00370,2024-07-10,9,Île-de-France,Téléphone,1,27.55,Validée,PROD
+P2024-00371,2024-07-10,11,Île-de-France,Commercial terrain,1,94.05,Validée,PROD
+P2024-00372,2024-07-10,11,Auvergne-Rhône-Alpes,Commercial terrain,2,198.00,Validée,PROD
+P2024-00373,2024-07-11,3,Occitanie,Téléphone,2,298.00,Validée,PROD
+P2024-00374,2024-07-11,4,Provence-Alpes-Côte d'Azur,Web,3,777.00,Validée,PROD
+P2024-00375,2024-07-11,7,Auvergne-Rhône-Alpes,Web,2,118.00,Validée,PROD
+P2024-00376,2024-07-12,8,Grand Est,Partenaire,2,278.00,Validée,PROD
+P2024-00377,2024-07-12,12,Nouvelle-Aquitaine,Téléphone,2,798.00,Validée,PROD
+P2024-00378,2024-07-13,2,Nouvelle-Aquitaine,Partenaire,1,329.00,Validée,PROD
+P2024-00379,2024-07-13,7,Grand Est,Partenaire,1,59.00,Validée,PROD
+P2024-00380,2024-07-13,9,Auvergne-Rhône-Alpes,Téléphone,1,29.00,Validée,PROD
+P2024-00381,2024-07-14,7,Nouvelle-Aquitaine,Commercial terrain,4,236.00,Validée,PROD
+P2024-00382,2024-07-14,8,Bretagne,Web,3,396.15,Validée,PROD
+P2024-00383,2024-07-14,10,Île-de-France,Web,2,38.00,Validée,PROD
+P2024-00384,2024-07-15,2,Bretagne,Web,2,658.00,Validée,PROD
+P2024-00385,2024-07-15,8,Île-de-France,Téléphone,1,132.05,Annulée,PROD
+P2024-00386,2024-07-16,5,Grand Est,Web,3,537.00,Validée,PROD
+P2024-00387,2024-07-16,11,Hauts-de-France,Téléphone,4,356.40,Validée,PROD
+P2024-00388,2024-07-17,1,Provence-Alpes-Côte d'Azur,Partenaire,2,978.00,Validée,PROD
+P2024-00389,2024-07-17,1,Auvergne-Rhône-Alpes,Commercial terrain,4,1956.00,Validée,PROD
+P2024-00390,2024-07-17,2,Auvergne-Rhône-Alpes,Web,2,658.00,Validée,PROD
+P2024-00391,2024-07-18,4,Bretagne,Web,1,259.00,Validée,PROD
+P2024-00392,2024-07-18,5,Île-de-France,Partenaire,2,358.00,Annulée,PROD
+P2024-00393,2024-07-19,2,Provence-Alpes-Côte d'Azur,Commercial terrain,1,312.55,Validée,PROD
+P2024-00394,2024-07-19,5,Bretagne,Partenaire,2,322.20,Validée,PROD
+P2024-00395,2024-07-20,2,Provence-Alpes-Côte d'Azur,Téléphone,4,1184.40,Validée,PROD
+P2024-00396,2024-07-20,7,Bretagne,Partenaire,2,118.00,Validée,PROD
+P2024-00397,2024-07-20,11,Nouvelle-Aquitaine,Téléphone,2,198.00,Validée,PROD
+P2024-00398,2024-07-21,4,Île-de-France,Partenaire,2,518.00,Validée,PROD
+P2024-00399,2024-07-21,8,Grand Est,Téléphone,2,278.00,Validée,PROD
+P2024-00400,2024-07-23,2,Occitanie,Partenaire,4,1316.00,Validée,PROD
+P2024-00401,2024-07-23,5,Hauts-de-France,Web,3,537.00,Validée,PROD
+P2024-00402,2024-07-24,2,Occitanie,Téléphone,1,329.00,Validée,PROD
+P2024-00403,2024-07-24,7,Nouvelle-Aquitaine,Web,1,56.05,Validée,PROD
+P2024-00404,2024-07-24,10,Nouvelle-Aquitaine,Partenaire,4,76.00,Validée,PROD
+P2024-00405,2024-07-24,12,Provence-Alpes-Côte d'Azur,Téléphone,1,379.05,Validée,PROD
+P2024-00406,2024-07-25,1,Provence-Alpes-Côte d'Azur,Partenaire,2,880.20,Validée,PROD
+P2024-00407,2024-07-25,11,Nouvelle-Aquitaine,Téléphone,2,188.10,Validée,PROD
+P2024-00408,2024-07-26,1,Grand Est,Partenaire,1,440.10,Validée,PROD
+P2024-00409,2024-07-26,3,Grand Est,Téléphone,1,149.00,Validée,PROD
+P2024-00410,2024-07-26,4,Bretagne,Téléphone,4,1036.00,Validée,PROD
+P2024-00411,2024-07-27,4,Île-de-France,Web,1,259.00,Validée,PROD
+P2024-00412,2024-07-28,10,Occitanie,Commercial terrain,4,76.00,Validée,PROD
+P2024-00413,2024-07-29,7,Provence-Alpes-Côte d'Azur,Commercial terrain,4,224.20,Validée,PROD
+P2024-00414,2024-07-29,11,Bretagne,Commercial terrain,1,99.00,Validée,PROD
+P2024-00415,2024-07-29,11,Bretagne,Partenaire,4,356.40,Validée,PROD
+P2024-00416,2024-07-30,1,Auvergne-Rhône-Alpes,Web,4,1956.00,Validée,PROD
+P2024-00417,2024-07-31,5,Auvergne-Rhône-Alpes,Web,1,179.00,Annulée,PROD
+P2024-00418,2024-07-31,5,Île-de-France,Téléphone,4,680.20,Validée,PROD
+P2024-00419,2024-08-01,2,Occitanie,Web,2,658.00,Validée,PROD
+P2024-00420,2024-08-01,3,Île-de-France,Web,4,566.20,Validée,PROD
+P2024-00421,2024-08-01,5,Provence-Alpes-Côte d'Azur,Partenaire,1,170.05,Annulée,PROD
+P2024-00422,2024-08-01,11,Bretagne,Web,2,198.00,Validée,PROD
+P2024-00423,2024-08-02,5,Bretagne,Partenaire,2,358.00,Validée,PROD
+P2024-00424,2024-08-02,7,Île-de-France,Téléphone,1,56.05,Annulée,PROD
+P2024-00425,2024-08-03,4,Grand Est,Web,2,492.10,Validée,PROD
+P2024-00426,2024-08-03,7,Occitanie,Partenaire,2,112.10,Validée,PROD
+P2024-00427,2024-08-04,3,Auvergne-Rhône-Alpes,Commercial terrain,2,268.20,Validée,PROD
+P2024-00428,2024-08-05,5,Hauts-de-France,Partenaire,3,537.00,Annulée,PROD
+P2024-00429,2024-08-05,8,Occitanie,Partenaire,1,139.00,Validée,PROD
+P2024-00430,2024-08-05,11,Occitanie,Commercial terrain,1,99.00,Validée,PROD
+P2024-00431,2024-08-05,11,Occitanie,Web,4,376.20,Validée,PROD
+P2024-00432,2024-08-06,2,Nouvelle-Aquitaine,Téléphone,1,329.00,Annulée,PROD
+P2024-00433,2024-08-06,6,Bretagne,Partenaire,1,119.00,Validée,PROD
+P2024-00434,2024-08-06,7,Occitanie,Téléphone,1,59.00,Validée,PROD
+P2024-00435,2024-08-06,9,Auvergne-Rhône-Alpes,Web,1,26.10,Validée,PROD
+P2024-00436,2024-08-06,12,Auvergne-Rhône-Alpes,Téléphone,3,1197.00,Annulée,PROD
+P2024-00437,2024-08-07,3,Provence-Alpes-Côte d'Azur,Partenaire,1,141.55,Validée,PROD
+P2024-00438,2024-08-07,9,Grand Est,Web,2,52.20,Validée,PROD
+P2024-00439,2024-08-08,2,Provence-Alpes-Côte d'Azur,Partenaire,2,658.00,Validée,PROD
+P2024-00440,2024-08-08,3,Provence-Alpes-Côte d'Azur,Web,1,134.10,Validée,PROD
+P2024-00441,2024-08-08,11,Occitanie,Téléphone,2,198.00,Validée,PROD
+P2024-00442,2024-08-09,1,Hauts-de-France,Partenaire,1,489.00,Validée,PROD
+P2024-00443,2024-08-09,1,Bretagne,Web,2,978.00,Validée,PROD
+P2024-00444,2024-08-09,5,Grand Est,Commercial terrain,1,179.00,Validée,PROD
+P2024-00445,2024-08-09,8,Île-de-France,Téléphone,2,278.00,Validée,PROD
+P2024-00446,2024-08-09,9,Occitanie,Partenaire,1,29.00,Validée,PROD
+P2024-00447,2024-08-10,3,Nouvelle-Aquitaine,Web,4,596.00,Annulée,PROD
+P2024-00448,2024-08-10,8,Île-de-France,Partenaire,4,556.00,Validée,PROD
+P2024-00449,2024-08-13,9,Île-de-France,Commercial terrain,1,29.00,Validée,PROD
+P2024-00450,2024-08-13,12,Hauts-de-France,Téléphone,4,1596.00,Validée,PROD
+P2024-00451,2024-08-14,5,Nouvelle-Aquitaine,Web,1,179.00,Validée,PROD
+P2024-00452,2024-08-14,5,Île-de-France,Partenaire,1,179.00,Validée,PROD
+P2024-00453,2024-08-14,12,Bretagne,Web,1,379.05,Validée,PROD
+P2024-00454,2024-08-16,2,Grand Est,Web,1,312.55,Validée,PROD
+P2024-00455,2024-08-16,4,Île-de-France,Téléphone,1,259.00,Validée,PROD
+P2024-00456,2024-08-17,3,Hauts-de-France,Partenaire,2,298.00,Validée,PROD
+P2024-00457,2024-08-17,4,Nouvelle-Aquitaine,Téléphone,1,259.00,Validée,PROD
+P2024-00458,2024-08-17,12,Bretagne,Commercial terrain,3,1197.00,Validée,PROD
+P2024-00459,2024-08-18,9,Île-de-France,Web,2,58.00,Validée,PROD
+P2024-00460,2024-08-18,11,Bretagne,Commercial terrain,1,89.10,Validée,PROD
+P2024-00461,2024-08-19,3,Grand Est,Partenaire,2,298.00,Validée,PROD
+P2024-00462,2024-08-20,2,Occitanie,Partenaire,2,658.00,Validée,PROD
+P2024-00463,2024-08-20,4,Grand Est,Web,2,518.00,Validée,PROD
+P2024-00464,2024-08-20,8,Occitanie,Commercial terrain,1,139.00,Validée,PROD
+P2024-00465,2024-08-20,11,Bretagne,Téléphone,1,94.05,Validée,PROD
+P2024-00466,2024-08-20,12,Provence-Alpes-Côte d'Azur,Commercial terrain,1,399.00,Validée,PROD
+P2024-00467,2024-08-21,1,Nouvelle-Aquitaine,Web,2,929.10,Validée,PROD
+P2024-00468,2024-08-21,12,Occitanie,Web,3,1197.00,Validée,PROD
+P2024-00469,2024-08-22,8,Occitanie,Téléphone,2,278.00,Annulée,PROD
+P2024-00470,2024-08-22,10,Provence-Alpes-Côte d'Azur,Web,1,19.00,Validée,PROD
+P2024-00471,2024-08-22,10,Hauts-de-France,Web,3,54.15,Validée,PROD
+P2024-00472,2024-08-23,4,Auvergne-Rhône-Alpes,Commercial terrain,4,932.40,Validée,PROD
+P2024-00473,2024-08-24,1,Provence-Alpes-Côte d'Azur,Partenaire,1,489.00,Validée,PROD
+P2024-00474,2024-08-25,1,Nouvelle-Aquitaine,Téléphone,1,489.00,Validée,PROD
+P2024-00475,2024-08-25,2,Grand Est,Partenaire,1,329.00,Validée,PROD
+P2024-00476,2024-08-25,5,Occitanie,Partenaire,2,358.00,Validée,PROD
+P2024-00477,2024-08-26,6,Nouvelle-Aquitaine,Téléphone,2,238.00,Validée,PROD
+P2024-00478,2024-08-26,8,Occitanie,Commercial terrain,2,278.00,Validée,PROD
+P2024-00479,2024-08-27,5,Hauts-de-France,Commercial terrain,4,716.00,Validée,PROD
+P2024-00480,2024-08-28,12,Bretagne,Commercial terrain,1,399.00,Annulée,PROD
+P2024-00481,2024-08-29,8,Bretagne,Téléphone,1,139.00,Validée,PROD
+P2024-00482,2024-08-30,2,Hauts-de-France,Téléphone,2,592.20,Validée,PROD
+P2024-00483,2024-08-30,4,Occitanie,Téléphone,1,246.05,Validée,PROD
+P2024-00484,2024-08-30,8,Occitanie,Commercial terrain,2,278.00,Validée,PROD
+P2024-00485,2024-08-30,10,Île-de-France,Web,4,68.40,Validée,PROD
+P2024-00486,2024-08-30,11,Auvergne-Rhône-Alpes,Partenaire,4,356.40,Validée,PROD
+P2024-00487,2024-08-31,3,Bretagne,Téléphone,2,283.10,Validée,PROD
+P2024-00488,2024-08-31,7,Grand Est,Partenaire,1,56.05,Validée,PROD
+P2024-00489,2024-08-31,7,Auvergne-Rhône-Alpes,Commercial terrain,2,118.00,Validée,PROD
+P2024-00490,2024-08-31,8,Nouvelle-Aquitaine,Partenaire,1,139.00,Validée,PROD
+P2024-00491,2024-08-31,12,Provence-Alpes-Côte d'Azur,Partenaire,1,359.10,Validée,PROD
+P2024-00492,2024-09-01,8,Bretagne,Commercial terrain,1,132.05,Validée,PROD
+P2024-00493,2024-09-02,3,Grand Est,Commercial terrain,1,149.00,Validée,PROD
+P2024-00494,2024-09-02,8,Bretagne,Commercial terrain,3,417.00,Validée,PROD
+P2024-00495,2024-09-03,6,Grand Est,Web,2,238.00,Validée,PROD
+P2024-00496,2024-09-03,10,Bretagne,Téléphone,2,34.20,Validée,PROD
+P2024-00497,2024-09-04,5,Hauts-de-France,Partenaire,1,170.05,Validée,PROD
+P2024-00498,2024-09-04,5,Île-de-France,Commercial terrain,4,716.00,Validée,PROD
+P2024-00499,2024-09-04,6,Nouvelle-Aquitaine,Partenaire,1,119.00,Validée,PROD
+P2024-00500,2024-09-04,6,Grand Est,Téléphone,4,428.40,Annulée,PROD
+P2024-00501,2024-09-04,10,Nouvelle-Aquitaine,Commercial terrain,1,19.00,Validée,PROD
+P2024-00502,2024-09-05,8,Auvergne-Rhône-Alpes,Partenaire,3,417.00,Validée,PROD
+P2024-00503,2024-09-06,1,Occitanie,Téléphone,4,1760.40,Validée,PROD
+P2024-00504,2024-09-06,9,Hauts-de-France,Commercial terrain,2,58.00,Validée,PROD
+P2024-00505,2024-09-06,12,Provence-Alpes-Côte d'Azur,Web,2,798.00,Validée,PROD
+P2024-00506,2024-09-07,2,Auvergne-Rhône-Alpes,Téléphone,1,312.55,Validée,PROD
+P2024-00507,2024-09-07,10,Provence-Alpes-Côte d'Azur,Partenaire,2,38.00,Validée,PROD
+P2024-00508,2024-09-07,11,Hauts-de-France,Web,1,99.00,Validée,PROD
+P2024-00509,2024-09-08,12,Occitanie,Partenaire,3,1197.00,Validée,PROD
+P2024-00510,2024-09-09,11,Bretagne,Commercial terrain,1,89.10,Validée,PROD
+P2024-00511,2024-09-10,3,Bretagne,Commercial terrain,1,149.00,Validée,PROD
+P2024-00512,2024-09-10,3,Occitanie,Web,3,447.00,Validée,PROD
+P2024-00513,2024-09-10,8,Grand Est,Web,3,417.00,Validée,PROD
+P2024-00514,2024-09-11,12,Nouvelle-Aquitaine,Partenaire,4,1516.20,Validée,PROD
+P2024-00515,2024-09-12,2,Auvergne-Rhône-Alpes,Partenaire,1,329.00,Validée,PROD
+P2024-00516,2024-09-12,3,Bretagne,Web,1,149.00,Validée,PROD
+P2024-00517,2024-09-12,3,Nouvelle-Aquitaine,Partenaire,2,268.20,Validée,PROD
+P2024-00518,2024-09-12,9,Bretagne,Partenaire,2,52.20,Validée,PROD
+P2024-00519,2024-09-14,12,Provence-Alpes-Côte d'Azur,Téléphone,1,359.10,Validée,PROD
+P2024-00520,2024-09-15,12,Occitanie,Téléphone,4,1596.00,Validée,PROD
+P2024-00521,2024-09-17,2,Bretagne,Commercial terrain,1,329.00,Validée,PROD
+P2024-00522,2024-09-17,6,Provence-Alpes-Côte d'Azur,Commercial terrain,2,226.10,Validée,PROD
+P2024-00523,2024-09-17,9,Auvergne-Rhône-Alpes,Partenaire,2,58.00,Validée,PROD
+P2024-00524,2024-09-17,10,Provence-Alpes-Côte d'Azur,Commercial terrain,1,19.00,Validée,PROD
+P2024-00525,2024-09-18,4,Île-de-France,Téléphone,1,246.05,Validée,PROD
+P2024-00526,2024-09-18,4,Auvergne-Rhône-Alpes,Web,2,466.20,Validée,PROD
+P2024-00527,2024-09-18,9,Hauts-de-France,Web,1,26.10,Validée,PROD
+P2024-00528,2024-09-19,3,Nouvelle-Aquitaine,Téléphone,1,134.10,Annulée,PROD
+P2024-00529,2024-09-19,5,Auvergne-Rhône-Alpes,Web,1,170.05,Validée,PROD
+P2024-00530,2024-09-19,9,Bretagne,Téléphone,1,26.10,Validée,PROD
+P2024-00531,2024-09-20,5,Hauts-de-France,Web,1,179.00,Validée,PROD
+P2024-00532,2024-09-20,8,Hauts-de-France,Web,3,417.00,Validée,PROD
+P2024-00533,2024-09-21,5,Provence-Alpes-Côte d'Azur,Commercial terrain,1,170.05,Validée,PROD
+P2024-00534,2024-09-23,5,Occitanie,Web,3,510.15,Validée,PROD
+P2024-00535,2024-09-23,6,Grand Est,Commercial terrain,2,238.00,Validée,PROD
+P2024-00536,2024-09-27,11,Île-de-France,Web,4,356.40,Validée,PROD
+P2024-00537,2024-09-28,2,Grand Est,Partenaire,2,592.20,Validée,PROD
+P2024-00538,2024-09-28,3,Bretagne,Partenaire,4,566.20,Validée,PROD
+P2024-00539,2024-09-29,3,Île-de-France,Partenaire,3,447.00,Annulée,PROD
+P2024-00540,2024-09-29,4,Provence-Alpes-Côte d'Azur,Commercial terrain,4,932.40,Annulée,PROD
+P2024-00541,2024-09-29,5,Provence-Alpes-Côte d'Azur,Téléphone,2,358.00,Annulée,PROD
+P2024-00542,2024-09-30,12,Île-de-France,Partenaire,1,399.00,Validée,PROD
+P2024-00543,2024-10-01,2,Grand Est,Partenaire,4,1316.00,Validée,PROD
+P2024-00544,2024-10-01,10,Provence-Alpes-Côte d'Azur,Téléphone,2,38.00,Validée,PROD
+P2024-00545,2024-10-02,4,Grand Est,Commercial terrain,2,466.20,Validée,PROD
+P2024-00546,2024-10-02,5,Nouvelle-Aquitaine,Web,1,179.00,Validée,PROD
+P2024-00547,2024-10-03,2,Grand Est,Téléphone,1,296.10,Validée,PROD
+P2024-00548,2024-10-03,3,Île-de-France,Commercial terrain,2,298.00,Validée,PROD
+P2024-00549,2024-10-03,4,Hauts-de-France,Téléphone,3,777.00,Annulée,PROD
+P2024-00550,2024-10-03,8,Auvergne-Rhône-Alpes,Commercial terrain,2,264.10,Validée,PROD
+P2024-00551,2024-10-05,3,Nouvelle-Aquitaine,Web,1,149.00,Validée,PROD
+P2024-00552,2024-10-05,4,Grand Est,Web,2,518.00,Validée,PROD
+P2024-00553,2024-10-06,1,Auvergne-Rhône-Alpes,Téléphone,1,489.00,Validée,PROD
+P2024-00554,2024-10-06,7,Hauts-de-France,Partenaire,2,112.10,Validée,PROD
+P2024-00555,2024-10-08,4,Île-de-France,Web,2,518.00,Validée,PROD
+P2024-00556,2024-10-08,9,Provence-Alpes-Côte d'Azur,Commercial terrain,2,55.10,Annulée,PROD
+P2024-00557,2024-10-09,1,Hauts-de-France,Web,1,489.00,Validée,PROD
+P2024-00558,2024-10-09,3,Occitanie,Commercial terrain,2,298.00,Validée,PROD
+P2024-00559,2024-10-09,4,Bretagne,Web,2,466.20,Validée,PROD
+P2024-00560,2024-10-09,6,Provence-Alpes-Côte d'Azur,Commercial terrain,3,357.00,Validée,PROD
+P2024-00561,2024-10-09,9,Nouvelle-Aquitaine,Commercial terrain,2,55.10,Annulée,PROD
+P2024-00562,2024-10-10,1,Provence-Alpes-Côte d'Azur,Web,1,489.00,Validée,PROD
+P2024-00563,2024-10-10,8,Bretagne,Web,2,250.20,Validée,PROD
+P2024-00564,2024-10-10,9,Provence-Alpes-Côte d'Azur,Commercial terrain,2,58.00,Validée,PROD
+P2024-00565,2024-10-10,9,Auvergne-Rhône-Alpes,Web,3,87.00,Validée,PROD
+P2024-00566,2024-10-10,9,Grand Est,Web,3,87.00,Validée,PROD
+P2024-00567,2024-10-10,10,Grand Est,Commercial terrain,1,17.10,Validée,PROD
+P2024-00568,2024-10-12,9,Hauts-de-France,Web,4,110.20,Validée,PROD
+P2024-00569,2024-10-12,10,Hauts-de-France,Téléphone,1,19.00,Validée,PROD
+P2024-00570,2024-10-12,11,Grand Est,Commercial terrain,1,99.00,Validée,PROD
+P2024-00571,2024-10-13,1,Provence-Alpes-Côte d'Azur,Web,4,1858.20,Validée,PROD
+P2024-00572,2024-10-13,2,Provence-Alpes-Côte d'Azur,Commercial terrain,2,658.00,Validée,PROD
+P2024-00573,2024-10-13,3,Grand Est,Web,2,268.20,Validée,PROD
+P2024-00574,2024-10-13,12,Hauts-de-France,Web,2,718.20,Validée,PROD
+P2024-00575,2024-10-14,10,Bretagne,Web,3,57.00,Validée,PROD
+P2024-00576,2024-10-15,1,Auvergne-Rhône-Alpes,Web,1,489.00,Validée,PROD
+P2024-00577,2024-10-15,2,Grand Est,Partenaire,1,329.00,Validée,PROD
+P2024-00578,2024-10-15,11,Île-de-France,Web,1,94.05,Validée,PROD
+P2024-00579,2024-10-16,5,Bretagne,Web,2,358.00,Annulée,PROD
+P2024-00580,2024-10-16,9,Grand Est,Téléphone,1,27.55,Validée,PROD
+P2024-00581,2024-10-16,9,Grand Est,Web,2,55.10,Validée,PROD
+P2024-00582,2024-10-16,9,Nouvelle-Aquitaine,Partenaire,2,55.10,Validée,PROD
+P2024-00583,2024-10-16,9,Nouvelle-Aquitaine,Partenaire,4,116.00,Validée,PROD
+P2024-00584,2024-10-17,5,Grand Est,Partenaire,3,537.00,Validée,PROD
+P2024-00585,2024-10-17,7,Provence-Alpes-Côte d'Azur,Commercial terrain,2,106.20,Annulée,PROD
+P2024-00586,2024-10-17,8,Nouvelle-Aquitaine,Partenaire,4,500.40,Validée,PROD
+P2024-00587,2024-10-17,10,Île-de-France,Téléphone,1,17.10,Validée,PROD
+P2024-00588,2024-10-18,9,Auvergne-Rhône-Alpes,Téléphone,1,29.00,Validée,PROD
+P2024-00589,2024-10-19,2,Auvergne-Rhône-Alpes,Commercial terrain,3,987.00,Validée,PROD
+P2024-00590,2024-10-21,1,Provence-Alpes-Côte d'Azur,Web,1,489.00,Annulée,PROD
+P2024-00591,2024-10-21,3,Auvergne-Rhône-Alpes,Commercial terrain,1,134.10,Validée,PROD
+P2024-00592,2024-10-21,8,Bretagne,Partenaire,3,417.00,Validée,PROD
+P2024-00593,2024-10-21,9,Occitanie,Web,4,116.00,Validée,PROD
+P2024-00594,2024-10-22,9,Hauts-de-France,Partenaire,4,116.00,Validée,PROD
+P2024-00595,2024-10-23,7,Grand Est,Commercial terrain,4,236.00,Validée,PROD
+P2024-00596,2024-10-23,11,Provence-Alpes-Côte d'Azur,Web,1,99.00,Validée,PROD
+P2024-00597,2024-10-24,4,Nouvelle-Aquitaine,Commercial terrain,1,259.00,Validée,PROD
+P2024-00598,2024-10-24,12,Auvergne-Rhône-Alpes,Téléphone,3,1077.30,Validée,PROD
+P2024-00599,2024-10-25,1,Hauts-de-France,Commercial terrain,3,1320.30,Validée,PROD
+P2024-00600,2024-10-25,8,Nouvelle-Aquitaine,Téléphone,2,278.00,Validée,PROD
+P2024-00601,2024-10-25,12,Grand Est,Téléphone,2,798.00,Validée,PROD
+P2024-00602,2024-10-26,5,Occitanie,Commercial terrain,1,179.00,Validée,PROD
+P2024-00603,2024-10-26,10,Île-de-France,Partenaire,4,76.00,Validée,PROD
+P2024-00604,2024-10-28,1,Auvergne-Rhône-Alpes,Web,4,1760.40,Validée,PROD
+P2024-00605,2024-10-28,1,Auvergne-Rhône-Alpes,Téléphone,4,1858.20,Annulée,PROD
+P2024-00606,2024-10-28,12,Bretagne,Partenaire,3,1077.30,Validée,PROD
+P2024-00607,2024-10-29,7,Hauts-de-France,Commercial terrain,3,168.15,Validée,PROD
+P2024-00608,2024-10-30,2,Bretagne,Commercial terrain,1,296.10,Validée,PROD
+P2024-00609,2024-10-30,7,Occitanie,Commercial terrain,1,59.00,Validée,PROD
+P2024-00610,2024-10-31,2,Occitanie,Web,4,1316.00,Validée,PROD
+P2024-00611,2024-10-31,6,Auvergne-Rhône-Alpes,Téléphone,2,238.00,Validée,PROD
+P2024-00612,2024-11-01,1,Nouvelle-Aquitaine,Commercial terrain,1,440.10,Validée,PROD
+P2024-00613,2024-11-01,3,Grand Est,Commercial terrain,1,149.00,Annulée,PROD
+P2024-00614,2024-11-01,3,Provence-Alpes-Côte d'Azur,Web,1,149.00,Validée,PROD
+P2024-00615,2024-11-01,12,Provence-Alpes-Côte d'Azur,Téléphone,1,399.00,Validée,PROD
+P2024-00616,2024-11-02,2,Île-de-France,Partenaire,1,329.00,Validée,PROD
+P2024-00617,2024-11-02,3,Grand Est,Téléphone,3,447.00,Validée,PROD
+P2024-00618,2024-11-02,5,Bretagne,Commercial terrain,1,179.00,Validée,PROD
+P2024-00619,2024-11-02,10,Provence-Alpes-Côte d'Azur,Téléphone,2,36.10,Validée,PROD
+P2024-00620,2024-11-02,12,Nouvelle-Aquitaine,Partenaire,1,399.00,Validée,PROD
+P2024-00621,2024-11-03,7,Bretagne,Téléphone,1,59.00,Validée,PROD
+P2024-00622,2024-11-03,7,Nouvelle-Aquitaine,Commercial terrain,2,118.00,Validée,PROD
+P2024-00623,2024-11-03,9,Hauts-de-France,Web,3,87.00,Validée,PROD
+P2024-00624,2024-11-04,5,Auvergne-Rhône-Alpes,Web,1,179.00,Validée,PROD
+P2024-00625,2024-11-04,5,Hauts-de-France,Partenaire,4,716.00,Validée,PROD
+P2024-00626,2024-11-05,4,Auvergne-Rhône-Alpes,Commercial terrain,3,699.30,Validée,PROD
+P2024-00627,2024-11-05,12,Auvergne-Rhône-Alpes,Web,2,758.10,Validée,PROD
+P2024-00628,2024-11-06,3,Nouvelle-Aquitaine,Commercial terrain,1,134.10,Validée,PROD
+P2024-00629,2024-11-06,6,Grand Est,Commercial terrain,2,214.20,Validée,PROD
+P2024-00630,2024-11-06,12,Hauts-de-France,Téléphone,2,758.10,Validée,PROD
+P2024-00631,2024-11-07,12,Occitanie,Téléphone,3,1197.00,Validée,PROD
+P2024-00632,2024-11-08,1,Provence-Alpes-Côte d'Azur,Commercial terrain,1,489.00,Validée,PROD
+P2024-00633,2024-11-08,6,Auvergne-Rhône-Alpes,Téléphone,3,357.00,Validée,PROD
+P2024-00634,2024-11-08,7,Provence-Alpes-Côte d'Azur,Téléphone,2,118.00,Validée,PROD
+P2024-00635,2024-11-09,4,Nouvelle-Aquitaine,Partenaire,1,259.00,Validée,PROD
+P2024-00636,2024-11-09,4,Bretagne,Partenaire,4,1036.00,Validée,PROD
+P2024-00637,2024-11-10,6,Nouvelle-Aquitaine,Partenaire,1,113.05,Validée,PROD
+P2024-00638,2024-11-10,10,Nouvelle-Aquitaine,Web,1,19.00,Validée,PROD
+P2024-00639,2024-11-10,10,Grand Est,Web,2,38.00,Validée,PROD
+P2024-00640,2024-11-11,2,Nouvelle-Aquitaine,Web,4,1316.00,Validée,PROD
+P2024-00641,2024-11-11,7,Grand Est,Téléphone,4,236.00,Validée,PROD
+P2024-00642,2024-11-11,8,Hauts-de-France,Partenaire,1,125.10,Validée,PROD
+P2024-00643,2024-11-12,3,Bretagne,Téléphone,2,298.00,Validée,PROD
+P2024-00644,2024-11-12,5,Hauts-de-France,Commercial terrain,2,322.20,Validée,PROD
+P2024-00645,2024-11-12,5,Auvergne-Rhône-Alpes,Commercial terrain,3,510.15,Validée,PROD
+P2024-00646,2024-11-12,8,Auvergne-Rhône-Alpes,Web,4,556.00,Validée,PROD
+P2024-00647,2024-11-13,3,Hauts-de-France,Téléphone,1,141.55,Validée,PROD
+P2024-00648,2024-11-13,11,Auvergne-Rhône-Alpes,Commercial terrain,1,99.00,Validée,PROD
+P2024-00649,2024-11-14,1,Auvergne-Rhône-Alpes,Partenaire,2,978.00,Validée,PROD
+P2024-00650,2024-11-15,2,Provence-Alpes-Côte d'Azur,Commercial terrain,1,329.00,Validée,PROD
+P2024-00651,2024-11-15,11,Nouvelle-Aquitaine,Commercial terrain,1,94.05,Annulée,PROD
+P2024-00652,2024-11-16,1,Auvergne-Rhône-Alpes,Commercial terrain,1,464.55,Validée,PROD
+P2024-00653,2024-11-16,5,Hauts-de-France,Téléphone,1,161.10,Validée,PROD
+P2024-00654,2024-11-17,3,Bretagne,Téléphone,2,298.00,Validée,PROD
+P2024-00655,2024-11-17,8,Île-de-France,Commercial terrain,2,278.00,Validée,PROD
+P2024-00656,2024-11-19,10,Auvergne-Rhône-Alpes,Téléphone,2,38.00,Validée,PROD
+P2024-00657,2024-11-20,9,Occitanie,Partenaire,4,116.00,Validée,PROD
+P2024-00658,2024-11-20,10,Nouvelle-Aquitaine,Commercial terrain,1,18.05,Validée,PROD
+P2024-00659,2024-11-21,1,Nouvelle-Aquitaine,Web,2,978.00,Validée,PROD
+P2024-00660,2024-11-23,12,Bretagne,Commercial terrain,2,798.00,Validée,PROD
+P2024-00661,2024-11-24,8,Auvergne-Rhône-Alpes,Téléphone,3,417.00,Annulée,PROD
+P2024-00662,2024-11-25,1,Provence-Alpes-Côte d'Azur,Téléphone,2,880.20,Validée,PROD
+P2024-00663,2024-11-25,6,Auvergne-Rhône-Alpes,Web,1,119.00,Validée,PROD
+P2024-00664,2024-11-26,4,Nouvelle-Aquitaine,Téléphone,1,259.00,Validée,PROD
+P2024-00665,2024-11-26,8,Bretagne,Téléphone,1,139.00,Validée,PROD
+P2024-00666,2024-11-27,1,Île-de-France,Web,1,440.10,Validée,PROD
+P2024-00667,2024-11-27,5,Bretagne,Téléphone,2,322.20,Validée,PROD
+P2024-00668,2024-11-27,5,Bretagne,Téléphone,3,537.00,Validée,PROD
+P2024-00669,2024-11-27,7,Provence-Alpes-Côte d'Azur,Web,1,59.00,Annulée,PROD
+P2024-00670,2024-11-27,7,Nouvelle-Aquitaine,Téléphone,1,59.00,Validée,PROD
+P2024-00671,2024-11-28,2,Grand Est,Commercial terrain,1,296.10,Validée,PROD
+P2024-00672,2024-11-28,12,Occitanie,Web,4,1436.40,Validée,PROD
+P2024-00673,2024-11-29,1,Auvergne-Rhône-Alpes,Téléphone,3,1467.00,Validée,PROD
+P2024-00674,2024-11-29,4,Grand Est,Commercial terrain,4,1036.00,Validée,PROD
+P2024-00675,2024-12-01,5,Provence-Alpes-Côte d'Azur,Commercial terrain,1,179.00,Validée,PROD
+P2024-00676,2024-12-04,1,Nouvelle-Aquitaine,Téléphone,1,489.00,Validée,PROD
+P2024-00677,2024-12-05,6,Île-de-France,Téléphone,2,238.00,Validée,PROD
+P2024-00678,2024-12-06,2,Occitanie,Partenaire,1,329.00,Validée,PROD
+P2024-00679,2024-12-07,10,Nouvelle-Aquitaine,Commercial terrain,1,19.00,Validée,PROD
+P2024-00680,2024-12-08,1,Auvergne-Rhône-Alpes,Commercial terrain,1,489.00,Validée,PROD
+P2024-00681,2024-12-08,2,Île-de-France,Web,1,296.10,Validée,PROD
+P2024-00682,2024-12-08,3,Grand Est,Partenaire,1,149.00,Validée,PROD
+P2024-00683,2024-12-08,9,Auvergne-Rhône-Alpes,Partenaire,4,104.40,Validée,PROD
+P2024-00684,2024-12-08,11,Nouvelle-Aquitaine,Web,2,178.20,Validée,PROD
+P2024-00685,2024-12-09,10,Hauts-de-France,Commercial terrain,2,38.00,Validée,PROD
+P2024-00686,2024-12-10,6,Grand Est,Partenaire,1,119.00,Validée,PROD
+P2024-00687,2024-12-10,9,Auvergne-Rhône-Alpes,Commercial terrain,2,58.00,Validée,PROD
+P2024-00688,2024-12-10,10,Nouvelle-Aquitaine,Web,2,34.20,Validée,PROD
+P2024-00689,2024-12-11,4,Hauts-de-France,Commercial terrain,1,259.00,Validée,PROD
+P2024-00690,2024-12-11,10,Bretagne,Téléphone,1,19.00,Validée,PROD
+P2024-00691,2024-12-12,5,Île-de-France,Commercial terrain,1,179.00,Validée,PROD
+P2024-00692,2024-12-13,1,Auvergne-Rhône-Alpes,Téléphone,1,440.10,Validée,PROD
+P2024-00693,2024-12-13,3,Auvergne-Rhône-Alpes,Partenaire,2,298.00,Validée,PROD
+P2024-00694,2024-12-13,6,Bretagne,Partenaire,3,321.30,Validée,PROD
+P2024-00695,2024-12-14,3,Nouvelle-Aquitaine,Web,2,298.00,Validée,PROD
+P2024-00696,2024-12-14,7,Île-de-France,Téléphone,4,224.20,Validée,PROD
+P2024-00697,2024-12-14,11,Occitanie,Commercial terrain,1,94.05,Validée,PROD
+P2024-00698,2024-12-15,3,Provence-Alpes-Côte d'Azur,Commercial terrain,1,149.00,Validée,PROD
+P2024-00699,2024-12-15,5,Provence-Alpes-Côte d'Azur,Commercial terrain,1,170.05,Annulée,PROD
+P2024-00700,2024-12-15,5,Île-de-France,Téléphone,4,716.00,Validée,PROD
+P2024-00701,2024-12-15,12,Île-de-France,Web,1,359.10,Annulée,PROD
+P2024-00702,2024-12-16,12,Hauts-de-France,Partenaire,1,379.05,Validée,PROD
+P2024-00703,2024-12-17,3,Auvergne-Rhône-Alpes,Téléphone,2,298.00,Validée,PROD
+P2024-00704,2024-12-17,4,Nouvelle-Aquitaine,Web,2,492.10,Validée,PROD
+P2024-00705,2024-12-17,10,Grand Est,Commercial terrain,1,19.00,Validée,PROD
+P2024-00706,2024-12-19,1,Hauts-de-France,Commercial terrain,2,978.00,Validée,PROD
+P2024-00707,2024-12-19,1,Hauts-de-France,Partenaire,3,1320.30,Validée,PROD
+P2024-00708,2024-12-19,7,Provence-Alpes-Côte d'Azur,Web,1,53.10,Annulée,PROD
+P2024-00709,2024-12-20,7,Hauts-de-France,Téléphone,2,106.20,Validée,PROD
+P2024-00710,2024-12-21,1,Provence-Alpes-Côte d'Azur,Commercial terrain,2,978.00,Validée,PROD
+P2024-00711,2024-12-21,3,Grand Est,Téléphone,4,536.40,Validée,PROD
+P2024-00712,2024-12-22,5,Grand Est,Partenaire,1,170.05,Validée,PROD
+P2024-00713,2024-12-22,6,Nouvelle-Aquitaine,Partenaire,4,476.00,Validée,PROD
+P2024-00714,2024-12-23,1,Île-de-France,Téléphone,1,489.00,Validée,PROD
+P2024-00715,2024-12-23,2,Auvergne-Rhône-Alpes,Téléphone,1,329.00,Validée,PROD
+P2024-00716,2024-12-23,4,Nouvelle-Aquitaine,Web,1,233.10,Validée,PROD
+P2024-00717,2024-12-23,4,Île-de-France,Web,4,932.40,Validée,PROD
+P2024-00718,2024-12-24,5,Île-de-France,Partenaire,1,179.00,Validée,PROD
+P2024-00719,2024-12-25,1,Grand Est,Web,2,978.00,Validée,PROD
+P2024-00720,2024-12-25,8,Grand Est,Téléphone,3,417.00,Validée,PROD
+P2024-00721,2024-12-25,11,Occitanie,Commercial terrain,1,99.00,Validée,PROD
+P2024-00722,2024-12-26,1,Hauts-de-France,Téléphone,3,1467.00,Validée,PROD
+P2024-00723,2024-12-26,4,Auvergne-Rhône-Alpes,Commercial terrain,1,259.00,Validée,PROD
+P2024-00724,2024-12-26,8,Auvergne-Rhône-Alpes,Commercial terrain,3,417.00,Validée,PROD
+P2024-00725,2024-12-26,11,Nouvelle-Aquitaine,Commercial terrain,1,99.00,Validée,PROD
+P2024-00726,2024-12-27,3,Occitanie,Téléphone,2,298.00,Validée,PROD
+P2024-00727,2024-12-27,11,Île-de-France,Partenaire,1,89.10,Validée,PROD
+P2024-00728,2024-12-29,5,Provence-Alpes-Côte d'Azur,Partenaire,2,358.00,Annulée,PROD
+P2024-00729,2024-12-29,9,Occitanie,Partenaire,4,116.00,Validée,PROD
+P2024-00730,2024-12-30,3,Bretagne,Commercial terrain,2,283.10,Validée,PROD
+P2024-00731,2024-12-31,2,Île-de-France,Commercial terrain,4,1250.20,Validée,PROD
+P2025-00732,2025-01-01,2,Nouvelle-Aquitaine,Commercial terrain,3,1065.96,Validée,PROD
+P2025-00733,2025-01-01,3,Nouvelle-Aquitaine,Web,1,144.83,Validée,PROD
+P2025-00734,2025-01-03,3,Occitanie,Commercial terrain,1,160.92,Validée,PROD
+P2025-00735,2025-01-03,3,Auvergne-Rhône-Alpes,Web,3,482.76,Validée,PROD
+P2025-00736,2025-01-03,11,Occitanie,Commercial terrain,1,96.23,Validée,PROD
+P2025-00737,2025-01-03,11,Grand Est,Partenaire,2,213.84,Validée,PROD
+P2025-00738,2025-01-03,12,Nouvelle-Aquitaine,Téléphone,1,430.92,Validée,PROD
+P2025-00739,2025-01-04,10,Hauts-de-France,Téléphone,1,20.52,Validée,PROD
+P2025-00740,2025-01-04,10,Provence-Alpes-Côte d'Azur,Commercial terrain,4,82.08,Validée,PROD
+P2025-00741,2025-01-05,1,Hauts-de-France,Téléphone,1,528.12,Validée,PROD
+P2025-00742,2025-01-05,5,Hauts-de-France,Commercial terrain,1,193.32,Validée,PROD
+P2025-00743,2025-01-05,5,Provence-Alpes-Côte d'Azur,Commercial terrain,4,773.28,Validée,PROD
+P2025-00744,2025-01-05,7,Grand Est,Commercial terrain,1,57.35,Validée,PROD
+P2025-00745,2025-01-05,10,Nouvelle-Aquitaine,Web,2,41.04,Annulée,PROD
+P2025-00746,2025-01-06,3,Bretagne,Commercial terrain,2,321.84,Validée,PROD
+P2025-00747,2025-01-06,4,Occitanie,Commercial terrain,3,839.16,Validée,PROD
+P2025-00748,2025-01-06,6,Provence-Alpes-Côte d'Azur,Téléphone,2,257.04,Validée,PROD
+P2025-00749,2025-01-06,12,Hauts-de-France,Web,1,409.37,Validée,PROD
+P2025-00750,2025-01-07,5,Provence-Alpes-Côte d'Azur,Commercial terrain,3,579.96,Validée,PROD
+P2025-00751,2025-01-07,10,Provence-Alpes-Côte d'Azur,Commercial terrain,1,18.47,Annulée,PROD
+P2025-00752,2025-01-07,11,Occitanie,Partenaire,1,106.92,Validée,PROD
+P2025-00753,2025-01-08,9,Occitanie,Partenaire,1,31.32,Annulée,PROD
+P2025-00754,2025-01-08,9,Grand Est,Partenaire,2,56.38,Validée,PROD
+P2025-00755,2025-01-08,10,Île-de-France,Téléphone,3,55.40,Validée,PROD
+P2025-00756,2025-01-09,7,Provence-Alpes-Côte d'Azur,Web,2,127.44,Validée,PROD
+P2025-00757,2025-01-10,1,Auvergne-Rhône-Alpes,Partenaire,1,501.71,Validée,PROD
+P2025-00758,2025-01-10,1,Auvergne-Rhône-Alpes,Téléphone,2,1056.24,Validée,PROD
+P2025-00759,2025-01-11,10,Occitanie,Web,3,55.40,Validée,PROD
+P2025-00760,2025-01-13,1,Hauts-de-France,Commercial terrain,1,528.12,Validée,PROD
+P2025-00761,2025-01-13,2,Grand Est,Web,3,1065.96,Annulée,PROD
+P2025-00762,2025-01-13,9,Île-de-France,Téléphone,1,31.32,Validée,PROD
+P2025-00763,2025-01-13,10,Occitanie,Web,3,61.56,Validée,PROD
+P2025-00764,2025-01-14,8,Bretagne,Web,2,300.24,Validée,PROD
+P2025-00765,2025-01-14,10,Grand Est,Commercial terrain,2,41.04,Validée,PROD
+P2025-00766,2025-01-16,1,Grand Est,Commercial terrain,2,1056.24,Validée,PROD
+P2025-00767,2025-01-16,5,Bretagne,Téléphone,1,193.32,Validée,PROD
+P2025-00768,2025-01-16,5,Grand Est,Téléphone,3,579.96,Validée,PROD
+P2025-00769,2025-01-16,7,Occitanie,Partenaire,1,63.72,Validée,PROD
+P2025-00770,2025-01-17,1,Auvergne-Rhône-Alpes,Web,1,528.12,Validée,PROD
+P2025-00771,2025-01-17,2,Bretagne,Commercial terrain,1,319.79,Validée,PROD
+P2025-00772,2025-01-18,9,Grand Est,Téléphone,2,62.64,Validée,PROD
+P2025-00773,2025-01-19,12,Nouvelle-Aquitaine,Téléphone,1,409.37,Validée,PROD
+P2025-00774,2025-01-22,1,Provence-Alpes-Côte d'Azur,Web,1,475.31,Validée,PROD
+P2025-00775,2025-01-22,3,Occitanie,Commercial terrain,1,160.92,Validée,PROD
+P2025-00776,2025-01-22,3,Occitanie,Partenaire,2,321.84,Validée,PROD
+P2025-00777,2025-01-22,7,Bretagne,Partenaire,3,172.04,Validée,PROD
+P2025-00778,2025-01-22,9,Auvergne-Rhône-Alpes,Téléphone,1,29.75,Validée,PROD
+P2025-00779,2025-01-22,11,Grand Est,Téléphone,1,106.92,Validée,PROD
+P2025-00780,2025-01-23,7,Nouvelle-Aquitaine,Téléphone,2,121.07,Validée,PROD
+P2025-00781,2025-01-24,2,Provence-Alpes-Côte d'Azur,Téléphone,1,337.55,Validée,PROD
+P2025-00782,2025-01-24,4,Nouvelle-Aquitaine,Commercial terrain,2,559.44,Validée,PROD
+P2025-00783,2025-01-24,5,Occitanie,Web,1,193.32,Validée,PROD
+P2025-00784,2025-01-24,6,Nouvelle-Aquitaine,Partenaire,4,514.08,Validée,PROD
+P2025-00785,2025-01-24,11,Hauts-de-France,Partenaire,4,384.91,Validée,PROD
+P2025-00786,2025-01-25,7,Auvergne-Rhône-Alpes,Web,2,127.44,Validée,PROD
+P2025-00787,2025-01-25,7,Grand Est,Web,2,127.44,Validée,PROD
+P2025-00788,2025-01-25,7,Occitanie,Commercial terrain,4,254.88,Validée,PROD
+P2025-00789,2025-01-25,8,Île-de-France,Téléphone,3,450.36,Validée,PROD
+P2025-00790,2025-01-27,10,Occitanie,Téléphone,4,82.08,Validée,PROD
+P2025-00791,2025-01-28,7,Hauts-de-France,Web,1,63.72,Validée,PROD
+P2025-00792,2025-01-28,12,Île-de-France,Téléphone,2,861.84,Validée,PROD
+P2025-00793,2025-01-29,10,Grand Est,Commercial terrain,2,41.04,Validée,PROD
+P2025-00794,2025-01-30,5,Île-de-France,Web,2,367.31,Validée,PROD
+P2025-00795,2025-02-01,3,Bretagne,Partenaire,1,160.92,Annulée,PROD
+P2025-00796,2025-02-01,10,Hauts-de-France,Partenaire,1,20.52,Validée,PROD
+P2025-00797,2025-02-02,6,Hauts-de-France,Web,4,514.08,Validée,PROD
+P2025-00798,2025-02-03,5,Île-de-France,Partenaire,3,550.96,Validée,PROD
+P2025-00799,2025-02-03,8,Nouvelle-Aquitaine,Partenaire,2,270.22,Validée,PROD
+P2025-00800,2025-02-03,9,Grand Est,Partenaire,1,31.32,Validée,PROD
+P2025-00801,2025-02-03,9,Auvergne-Rhône-Alpes,Partenaire,3,84.56,Validée,PROD
+P2025-00802,2025-02-03,10,Provence-Alpes-Côte d'Azur,Partenaire,3,61.56,Validée,PROD
+P2025-00803,2025-02-03,11,Provence-Alpes-Côte d'Azur,Web,1,106.92,Validée,PROD
+P2025-00804,2025-02-04,7,Hauts-de-France,Téléphone,2,114.70,Validée,PROD
+P2025-00805,2025-02-04,9,Hauts-de-France,Web,4,125.28,Validée,PROD
+P2025-00806,2025-02-04,10,Auvergne-Rhône-Alpes,Téléphone,2,41.04,Validée,PROD
+P2025-00807,2025-02-05,7,Île-de-France,Web,1,63.72,Validée,PROD
+P2025-00808,2025-02-05,9,Auvergne-Rhône-Alpes,Téléphone,1,29.75,Validée,PROD
+P2025-00809,2025-02-05,10,Occitanie,Partenaire,2,36.94,Validée,PROD
+P2025-00810,2025-02-06,4,Grand Est,Web,2,559.44,Validée,PROD
+P2025-00811,2025-02-06,7,Occitanie,Commercial terrain,1,60.53,Validée,PROD
+P2025-00812,2025-02-06,8,Provence-Alpes-Côte d'Azur,Web,2,270.22,Validée,PROD
+P2025-00813,2025-02-06,9,Auvergne-Rhône-Alpes,Web,4,125.28,Validée,PROD
+P2025-00814,2025-02-09,4,Grand Est,Téléphone,2,503.50,Validée,PROD
+P2025-00815,2025-02-09,5,Bretagne,Partenaire,1,193.32,Validée,PROD
+P2025-00816,2025-02-09,8,Île-de-France,Téléphone,2,300.24,Validée,PROD
+P2025-00817,2025-02-09,9,Auvergne-Rhône-Alpes,Téléphone,3,93.96,Validée,PROD
+P2025-00818,2025-02-10,12,Provence-Alpes-Côte d'Azur,Téléphone,1,387.83,Validée,PROD
+P2025-00819,2025-02-11,4,Nouvelle-Aquitaine,Partenaire,3,839.16,Annulée,PROD
+P2025-00820,2025-02-11,6,Provence-Alpes-Côte d'Azur,Téléphone,4,488.38,Validée,PROD
+P2025-00821,2025-02-12,7,Nouvelle-Aquitaine,Partenaire,2,121.07,Validée,PROD
+P2025-00822,2025-02-13,5,Auvergne-Rhône-Alpes,Téléphone,2,347.98,Validée,PROD
+P2025-00823,2025-02-13,10,Île-de-France,Téléphone,1,20.52,Annulée,PROD
+P2025-00824,2025-02-13,10,Île-de-France,Commercial terrain,1,19.49,Validée,PROD
+P2025-00825,2025-02-13,12,Nouvelle-Aquitaine,Web,1,387.83,Validée,PROD
+P2025-00826,2025-02-14,6,Hauts-de-France,Partenaire,4,514.08,Annulée,PROD
+P2025-00827,2025-02-14,9,Occitanie,Téléphone,1,28.19,Validée,PROD
+P2025-00828,2025-02-15,1,Bretagne,Partenaire,1,501.71,Validée,PROD
+P2025-00829,2025-02-15,4,Provence-Alpes-Côte d'Azur,Partenaire,1,279.72,Validée,PROD
+P2025-00830,2025-02-15,8,Nouvelle-Aquitaine,Partenaire,2,270.22,Validée,PROD
+P2025-00831,2025-02-15,9,Nouvelle-Aquitaine,Téléphone,1,31.32,Validée,PROD
+P2025-00832,2025-02-15,11,Auvergne-Rhône-Alpes,Web,3,320.76,Annulée,PROD
+P2025-00833,2025-02-16,1,Occitanie,Commercial terrain,1,528.12,Validée,PROD
+P2025-00834,2025-02-17,5,Auvergne-Rhône-Alpes,Commercial terrain,1,173.99,Validée,PROD
+P2025-00835,2025-02-18,5,Hauts-de-France,Partenaire,3,521.96,Validée,PROD
+P2025-00836,2025-02-18,10,Auvergne-Rhône-Alpes,Web,1,20.52,Validée,PROD
+P2025-00837,2025-02-18,12,Bretagne,Commercial terrain,1,430.92,Validée,PROD
+P2025-00838,2025-02-19,6,Île-de-France,Web,2,244.19,Validée,PROD
+P2025-00839,2025-02-21,9,Grand Est,Téléphone,3,84.56,Validée,PROD
+P2025-00840,2025-02-21,11,Nouvelle-Aquitaine,Partenaire,1,101.57,Annulée,PROD
+P2025-00841,2025-02-23,5,Grand Est,Commercial terrain,3,579.96,Validée,PROD
+P2025-00842,2025-02-23,12,Bretagne,Commercial terrain,2,861.84,Validée,PROD
+P2025-00843,2025-02-25,11,Auvergne-Rhône-Alpes,Web,1,106.92,Validée,PROD
+P2025-00844,2025-02-26,6,Hauts-de-France,Commercial terrain,1,122.09,Validée,PROD
+P2025-00845,2025-02-26,12,Île-de-France,Commercial terrain,3,1292.76,Validée,PROD
+P2025-00846,2025-02-28,7,Bretagne,Web,1,60.53,Validée,PROD
+P2025-00847,2025-02-28,7,Grand Est,Téléphone,3,191.16,Validée,PROD
+P2025-00848,2025-03-01,11,Bretagne,Téléphone,3,320.76,Validée,PROD
+P2025-00849,2025-03-02,8,Île-de-France,Téléphone,3,450.36,Validée,PROD
+P2025-00850,2025-03-02,9,Hauts-de-France,Téléphone,1,29.75,Validée,PROD
+P2025-00851,2025-03-02,11,Grand Est,Partenaire,1,106.92,Validée,PROD
+P2025-00852,2025-03-03,4,Auvergne-Rhône-Alpes,Commercial terrain,1,279.72,Validée,PROD
+P2025-00853,2025-03-05,2,Provence-Alpes-Côte d'Azur,Web,2,710.64,Validée,PROD
+P2025-00854,2025-03-05,12,Nouvelle-Aquitaine,Partenaire,3,1163.48,Validée,PROD
+P2025-00855,2025-03-06,5,Provence-Alpes-Côte d'Azur,Web,4,734.62,Validée,PROD
+P2025-00856,2025-03-07,1,Auvergne-Rhône-Alpes,Téléphone,3,1584.36,Validée,PROD
+P2025-00857,2025-03-07,7,Hauts-de-France,Commercial terrain,1,63.72,Validée,PROD
+P2025-00858,2025-03-09,2,Hauts-de-France,Partenaire,1,355.32,Validée,PROD
+P2025-00859,2025-03-09,3,Bretagne,Commercial terrain,1,160.92,Validée,PROD
+P2025-00860,2025-03-09,9,Provence-Alpes-Côte d'Azur,Téléphone,1,29.75,Validée,PROD
+P2025-00861,2025-03-09,10,Occitanie,Téléphone,1,19.49,Validée,PROD
+P2025-00862,2025-03-09,12,Grand Est,Commercial terrain,1,430.92,Validée,PROD
+P2025-00863,2025-03-09,12,Île-de-France,Commercial terrain,1,387.83,Validée,PROD
+P2025-00864,2025-03-10,2,Provence-Alpes-Côte d'Azur,Téléphone,2,639.58,Validée,PROD
+P2025-00865,2025-03-10,10,Occitanie,Web,3,61.56,Validée,PROD
+P2025-00866,2025-03-11,5,Nouvelle-Aquitaine,Web,4,773.28,Validée,PROD
+P2025-00867,2025-03-11,11,Occitanie,Commercial terrain,4,427.68,Annulée,PROD
+P2025-00868,2025-03-12,1,Hauts-de-France,Téléphone,1,475.31,Validée,PROD
+P2025-00869,2025-03-12,4,Île-de-France,Téléphone,1,279.72,Validée,PROD
+P2025-00870,2025-03-12,11,Hauts-de-France,Partenaire,2,213.84,Validée,PROD
+P2025-00871,2025-03-13,4,Auvergne-Rhône-Alpes,Partenaire,1,279.72,Validée,PROD
+P2025-00872,2025-03-13,7,Provence-Alpes-Côte d'Azur,Téléphone,1,63.72,Validée,PROD
+P2025-00873,2025-03-13,8,Île-de-France,Commercial terrain,1,150.12,Validée,PROD
+P2025-00874,2025-03-14,3,Île-de-France,Téléphone,4,611.50,Validée,PROD
+P2025-00875,2025-03-14,5,Auvergne-Rhône-Alpes,Partenaire,1,193.32,Validée,PROD
+P2025-00876,2025-03-14,6,Nouvelle-Aquitaine,Partenaire,1,128.52,Validée,PROD
+P2025-00877,2025-03-14,6,Île-de-France,Partenaire,2,257.04,Validée,PROD
+P2025-00878,2025-03-15,8,Hauts-de-France,Commercial terrain,3,427.84,Validée,PROD
+P2025-00879,2025-03-15,10,Provence-Alpes-Côte d'Azur,Partenaire,1,20.52,Validée,PROD
+P2025-00880,2025-03-15,11,Grand Est,Web,2,213.84,Validée,PROD
+P2025-00881,2025-03-16,2,Île-de-France,Web,1,319.79,Validée,PROD
+P2025-00882,2025-03-16,4,Nouvelle-Aquitaine,Web,2,559.44,Validée,PROD
+P2025-00883,2025-03-16,6,Hauts-de-France,Téléphone,1,128.52,Validée,PROD
+P2025-00884,2025-03-16,7,Provence-Alpes-Côte d'Azur,Téléphone,1,60.53,Validée,PROD
+P2025-00885,2025-03-16,8,Auvergne-Rhône-Alpes,Web,1,135.11,Validée,PROD
+P2025-00886,2025-03-17,1,Île-de-France,Partenaire,3,1584.36,Validée,PROD
+P2025-00887,2025-03-17,3,Bretagne,Commercial terrain,1,160.92,Validée,PROD
+P2025-00888,2025-03-19,1,Auvergne-Rhône-Alpes,Partenaire,1,528.12,Validée,PROD
+P2025-00889,2025-03-19,1,Auvergne-Rhône-Alpes,Web,4,2112.48,Validée,PROD
+P2025-00890,2025-03-19,2,Nouvelle-Aquitaine,Téléphone,1,355.32,Validée,PROD
+P2025-00891,2025-03-19,3,Bretagne,Commercial terrain,2,321.84,Validée,PROD
+P2025-00892,2025-03-19,6,Grand Est,Commercial terrain,1,115.67,Validée,PROD
+P2025-00893,2025-03-19,8,Provence-Alpes-Côte d'Azur,Commercial terrain,2,300.24,Validée,PROD
+P2025-00894,2025-03-19,10,Occitanie,Partenaire,3,61.56,Validée,PROD
+P2025-00895,2025-03-19,11,Bretagne,Téléphone,2,203.15,Validée,PROD
+P2025-00896,2025-03-20,2,Provence-Alpes-Côte d'Azur,Commercial terrain,3,959.36,Validée,PROD
+P2025-00897,2025-03-20,7,Nouvelle-Aquitaine,Partenaire,2,127.44,Validée,PROD
+P2025-00898,2025-03-20,8,Hauts-de-France,Web,1,135.11,Validée,PROD
+P2025-00899,2025-03-21,4,Nouvelle-Aquitaine,Web,1,265.73,Validée,PROD
+P2025-00900,2025-03-22,1,Auvergne-Rhône-Alpes,Web,1,528.12,Validée,PROD
+P2025-00901,2025-03-23,2,Bretagne,Web,3,959.36,Validée,PROD
+P2025-00902,2025-03-23,7,Occitanie,Téléphone,2,127.44,Validée,PROD
+P2025-00903,2025-03-23,10,Bretagne,Partenaire,1,20.52,Validée,PROD
+P2025-00904,2025-03-24,5,Île-de-France,Commercial terrain,4,773.28,Validée,PROD
+P2025-00905,2025-03-24,9,Occitanie,Commercial terrain,4,125.28,Validée,PROD
+P2025-00906,2025-03-25,2,Auvergne-Rhône-Alpes,Web,2,639.58,Validée,PROD
+P2025-00907,2025-03-25,10,Hauts-de-France,Web,1,20.52,Validée,PROD
+P2025-00908,2025-03-26,7,Nouvelle-Aquitaine,Commercial terrain,2,127.44,Validée,PROD
+P2025-00909,2025-03-26,9,Auvergne-Rhône-Alpes,Téléphone,4,112.75,Validée,PROD
+P2025-00910,2025-03-27,1,Île-de-France,Web,2,950.62,Validée,PROD
+P2025-00911,2025-03-27,8,Hauts-de-France,Web,3,450.36,Validée,PROD
+P2025-00912,2025-03-31,5,Auvergne-Rhône-Alpes,Commercial terrain,3,550.96,Validée,PROD
+P2025-00913,2025-03-31,11,Grand Est,Web,1,106.92,Validée,PROD
+P2025-00914,2025-04-01,3,Île-de-France,Commercial terrain,4,643.68,Validée,PROD
+P2025-00915,2025-04-02,11,Occitanie,Téléphone,2,213.84,Validée,PROD
+P2025-00916,2025-04-03,1,Île-de-France,Téléphone,2,1003.43,Validée,PROD
+P2025-00917,2025-04-05,10,Auvergne-Rhône-Alpes,Téléphone,2,38.99,Validée,PROD
+P2025-00918,2025-04-06,7,Occitanie,Web,3,181.60,Validée,PROD
+P2025-00919,2025-04-06,10,Nouvelle-Aquitaine,Commercial terrain,1,20.52,Validée,PROD
+P2025-00920,2025-04-07,1,Grand Est,Web,1,475.31,Validée,PROD
+P2025-00921,2025-04-08,1,Occitanie,Commercial terrain,1,528.12,Annulée,PROD
+P2025-00922,2025-04-08,5,Hauts-de-France,Téléphone,1,183.65,Validée,PROD
+P2025-00923,2025-04-08,5,Occitanie,Partenaire,1,193.32,Validée,PROD
+P2025-00924,2025-04-09,9,Île-de-France,Commercial terrain,1,31.32,Validée,PROD
+P2025-00925,2025-04-09,10,Bretagne,Partenaire,1,20.52,Validée,PROD
+P2025-00926,2025-04-09,11,Nouvelle-Aquitaine,Téléphone,1,106.92,Validée,PROD
+P2025-00927,2025-04-09,11,Bretagne,Commercial terrain,3,304.72,Validée,PROD
+P2025-00928,2025-04-10,2,Bretagne,Web,1,355.32,Annulée,PROD
+P2025-00929,2025-04-10,2,Auvergne-Rhône-Alpes,Téléphone,3,1065.96,Validée,PROD
+P2025-00930,2025-04-10,5,Auvergne-Rhône-Alpes,Web,2,386.64,Validée,PROD
+P2025-00931,2025-04-10,8,Auvergne-Rhône-Alpes,Téléphone,1,150.12,Validée,PROD
+P2025-00932,2025-04-11,2,Hauts-de-France,Téléphone,1,337.55,Validée,PROD
+P2025-00933,2025-04-11,3,Île-de-France,Commercial terrain,1,144.83,Validée,PROD
+P2025-00934,2025-04-11,11,Hauts-de-France,Web,2,203.15,Validée,PROD
+P2025-00935,2025-04-12,3,Provence-Alpes-Côte d'Azur,Commercial terrain,2,305.75,Validée,PROD
+P2025-00936,2025-04-12,9,Nouvelle-Aquitaine,Partenaire,1,31.32,Validée,PROD
+P2025-00937,2025-04-13,11,Occitanie,Téléphone,1,101.57,Validée,PROD
+P2025-00938,2025-04-14,2,Hauts-de-France,Web,3,1065.96,Validée,PROD
+P2025-00939,2025-04-14,5,Hauts-de-France,Commercial terrain,4,773.28,Validée,PROD
+P2025-00940,2025-04-14,10,Occitanie,Téléphone,1,20.52,Validée,PROD
+P2025-00941,2025-04-15,1,Auvergne-Rhône-Alpes,Commercial terrain,1,475.31,Validée,PROD
+P2025-00942,2025-04-15,1,Bretagne,Téléphone,4,2112.48,Validée,PROD
+P2025-00943,2025-04-16,4,Île-de-France,Web,1,279.72,Validée,PROD
+P2025-00944,2025-04-16,8,Provence-Alpes-Côte d'Azur,Partenaire,1,135.11,Validée,PROD
+P2025-00945,2025-04-16,9,Nouvelle-Aquitaine,Partenaire,1,31.32,Validée,PROD
+P2025-00946,2025-04-16,10,Provence-Alpes-Côte d'Azur,Web,1,20.52,Validée,PROD
+P2025-00947,2025-04-16,12,Île-de-France,Commercial terrain,1,430.92,Validée,PROD
+P2025-00948,2025-04-17,1,Grand Est,Partenaire,1,528.12,Validée,PROD
+P2025-00949,2025-04-17,3,Île-de-France,Commercial terrain,3,482.76,Annulée,PROD
+P2025-00950,2025-04-17,11,Hauts-de-France,Partenaire,2,213.84,Validée,PROD
+P2025-00951,2025-04-19,3,Auvergne-Rhône-Alpes,Partenaire,4,643.68,Validée,PROD
+P2025-00952,2025-04-19,4,Hauts-de-France,Téléphone,1,279.72,Validée,PROD
+P2025-00953,2025-04-19,7,Auvergne-Rhône-Alpes,Commercial terrain,1,63.72,Validée,PROD
+P2025-00954,2025-04-19,9,Île-de-France,Téléphone,1,31.32,Validée,PROD
+P2025-00955,2025-04-20,8,Hauts-de-France,Partenaire,1,135.11,Validée,PROD
+P2025-00956,2025-04-21,1,Nouvelle-Aquitaine,Téléphone,1,501.71,Validée,PROD
+P2025-00957,2025-04-21,1,Provence-Alpes-Côte d'Azur,Partenaire,2,950.62,Validée,PROD
+P2025-00958,2025-04-21,5,Nouvelle-Aquitaine,Commercial terrain,2,347.98,Validée,PROD
+P2025-00959,2025-04-21,7,Occitanie,Commercial terrain,4,254.88,Validée,PROD
+P2025-00960,2025-04-21,8,Provence-Alpes-Côte d'Azur,Commercial terrain,2,300.24,Validée,PROD
+P2025-00961,2025-04-21,8,Auvergne-Rhône-Alpes,Commercial terrain,3,450.36,Validée,PROD
+P2025-00962,2025-04-22,2,Provence-Alpes-Côte d'Azur,Commercial terrain,1,337.55,Validée,PROD
+P2025-00963,2025-04-23,3,Hauts-de-France,Téléphone,2,321.84,Validée,PROD
+P2025-00964,2025-04-23,7,Auvergne-Rhône-Alpes,Téléphone,1,57.35,Validée,PROD
+P2025-00965,2025-04-23,9,Auvergne-Rhône-Alpes,Web,1,31.32,Validée,PROD
+P2025-00966,2025-04-23,9,Grand Est,Téléphone,4,125.28,Validée,PROD
+P2025-00967,2025-04-23,12,Île-de-France,Téléphone,1,430.92,Validée,PROD
+P2025-00968,2025-04-24,8,Hauts-de-France,Commercial terrain,2,270.22,Validée,PROD
+P2025-00969,2025-04-25,1,Bretagne,Web,2,1056.24,Validée,PROD
+P2025-00970,2025-04-25,10,Bretagne,Commercial terrain,1,18.47,Validée,PROD
+P2025-00971,2025-04-26,6,Nouvelle-Aquitaine,Web,1,128.52,Validée,PROD
+P2025-00972,2025-04-26,7,Occitanie,Commercial terrain,3,191.16,Annulée,PROD
+P2025-00973,2025-04-26,10,Grand Est,Commercial terrain,1,19.49,Validée,PROD
+P2025-00974,2025-04-26,12,Occitanie,Partenaire,1,430.92,Validée,PROD
+P2025-00975,2025-04-26,12,Grand Est,Téléphone,2,818.75,Validée,PROD
+P2025-00976,2025-04-29,1,Nouvelle-Aquitaine,Web,1,528.12,Validée,PROD
+P2025-00977,2025-04-29,5,Auvergne-Rhône-Alpes,Partenaire,2,347.98,Validée,PROD
+P2025-00978,2025-04-29,8,Provence-Alpes-Côte d'Azur,Web,2,270.22,Validée,PROD
+P2025-00979,2025-04-29,9,Hauts-de-France,Partenaire,1,28.19,Validée,PROD
+P2025-00980,2025-04-29,10,Grand Est,Web,1,20.52,Validée,PROD
+P2025-00981,2025-04-29,12,Bretagne,Commercial terrain,1,430.92,Validée,PROD
+P2025-00982,2025-04-30,7,Provence-Alpes-Côte d'Azur,Commercial terrain,2,121.07,Validée,PROD
+P2025-00983,2025-05-01,9,Nouvelle-Aquitaine,Commercial terrain,3,93.96,Validée,PROD
+P2025-00984,2025-05-01,10,Auvergne-Rhône-Alpes,Web,4,73.87,Validée,PROD
+P2025-00985,2025-05-02,8,Grand Est,Commercial terrain,1,150.12,Validée,PROD
+P2025-00986,2025-05-02,11,Occitanie,Téléphone,1,96.23,Validée,PROD
+P2025-00987,2025-05-03,9,Île-de-France,Commercial terrain,1,29.75,Validée,PROD
+P2025-00988,2025-05-03,10,Grand Est,Commercial terrain,2,41.04,Validée,PROD
+P2025-00989,2025-05-04,1,Île-de-France,Commercial terrain,1,475.31,Validée,PROD
+P2025-00990,2025-05-04,8,Provence-Alpes-Côte d'Azur,Commercial terrain,1,135.11,Validée,PROD
+P2025-00991,2025-05-04,12,Hauts-de-France,Commercial terrain,3,1292.76,Annulée,PROD
+P2025-00992,2025-05-05,4,Grand Est,Web,1,251.75,Annulée,PROD
+P2025-00993,2025-05-05,6,Hauts-de-France,Partenaire,2,257.04,Validée,PROD
+P2025-00994,2025-05-06,5,Auvergne-Rhône-Alpes,Commercial terrain,1,173.99,Validée,PROD
+P2025-00995,2025-05-06,9,Nouvelle-Aquitaine,Web,1,31.32,Validée,PROD
+P2025-00996,2025-05-07,11,Île-de-France,Commercial terrain,3,320.76,Validée,PROD
+P2025-00997,2025-05-08,3,Grand Est,Partenaire,2,305.75,Validée,PROD
+P2025-00998,2025-05-08,4,Provence-Alpes-Côte d'Azur,Téléphone,1,279.72,Validée,PROD
+P2025-00999,2025-05-08,8,Nouvelle-Aquitaine,Commercial terrain,3,450.36,Validée,PROD
+P2025-01000,2025-05-09,1,Grand Est,Téléphone,2,1056.24,Validée,PROD
+P2025-01001,2025-05-10,3,Occitanie,Commercial terrain,1,144.83,Validée,PROD
+P2025-01002,2025-05-10,9,Nouvelle-Aquitaine,Commercial terrain,1,28.19,Validée,PROD
+P2025-01003,2025-05-10,11,Hauts-de-France,Téléphone,2,213.84,Validée,PROD
+P2025-01004,2025-05-11,11,Occitanie,Commercial terrain,1,106.92,Validée,PROD
+P2025-01005,2025-05-11,11,Bretagne,Partenaire,1,106.92,Validée,PROD
+P2025-01006,2025-05-12,1,Occitanie,Web,3,1584.36,Validée,PROD
+P2025-01007,2025-05-12,2,Occitanie,Web,2,639.58,Validée,PROD
+P2025-01008,2025-05-12,8,Hauts-de-France,Web,2,300.24,Validée,PROD
+P2025-01009,2025-05-12,9,Hauts-de-France,Commercial terrain,4,119.02,Validée,PROD
+P2025-01010,2025-05-12,12,Provence-Alpes-Côte d'Azur,Commercial terrain,1,387.83,Validée,PROD
+P2025-01011,2025-05-13,5,Auvergne-Rhône-Alpes,Téléphone,1,173.99,Validée,PROD
+P2025-01012,2025-05-13,7,Nouvelle-Aquitaine,Commercial terrain,1,63.72,Validée,PROD
+P2025-01013,2025-05-13,9,Île-de-France,Commercial terrain,2,59.51,Validée,PROD
+P2025-01014,2025-05-13,12,Nouvelle-Aquitaine,Téléphone,2,861.84,Validée,PROD
+P2025-01015,2025-05-14,8,Nouvelle-Aquitaine,Commercial terrain,1,150.12,Annulée,PROD
+P2025-01016,2025-05-15,1,Occitanie,Partenaire,1,528.12,Validée,PROD
+P2025-01017,2025-05-15,5,Provence-Alpes-Côte d'Azur,Web,1,193.32,Validée,PROD
+P2025-01018,2025-05-15,9,Auvergne-Rhône-Alpes,Partenaire,1,31.32,Validée,PROD
+P2025-01019,2025-05-15,11,Auvergne-Rhône-Alpes,Téléphone,4,427.68,Validée,PROD
+P2025-01020,2025-05-16,1,Grand Est,Commercial terrain,1,528.12,Validée,PROD
+P2025-01021,2025-05-16,2,Grand Est,Commercial terrain,2,675.11,Validée,PROD
+P2025-01022,2025-05-16,6,Hauts-de-France,Téléphone,3,385.56,Validée,PROD
+P2025-01023,2025-05-16,9,Île-de-France,Commercial terrain,2,62.64,Validée,PROD
+P2025-01024,2025-05-16,10,Hauts-de-France,Téléphone,1,20.52,Validée,PROD
+P2025-01025,2025-05-17,4,Bretagne,Web,1,251.75,Validée,PROD
+P2025-01026,2025-05-17,5,Île-de-France,Partenaire,1,193.32,Validée,PROD
+P2025-01027,2025-05-18,5,Hauts-de-France,Téléphone,1,193.32,Annulée,PROD
+P2025-01028,2025-05-19,2,Nouvelle-Aquitaine,Commercial terrain,3,1065.96,Validée,PROD
+P2025-01029,2025-05-19,7,Hauts-de-France,Web,4,254.88,Validée,PROD
+P2025-01030,2025-05-19,10,Auvergne-Rhône-Alpes,Commercial terrain,1,20.52,Validée,PROD
+P2025-01031,2025-05-20,10,Hauts-de-France,Partenaire,1,20.52,Annulée,PROD
+P2025-01032,2025-05-22,11,Hauts-de-France,Web,3,320.76,Validée,PROD
+P2025-01033,2025-05-23,2,Bretagne,Web,3,959.36,Validée,PROD
+P2025-01034,2025-05-24,1,Bretagne,Web,1,528.12,Validée,PROD
+P2025-01035,2025-05-24,1,Bretagne,Web,4,2112.48,Validée,PROD
+P2025-01036,2025-05-24,10,Hauts-de-France,Commercial terrain,1,19.49,Validée,PROD
+P2025-01037,2025-05-24,11,Occitanie,Téléphone,2,213.84,Validée,PROD
+P2025-01038,2025-05-25,9,Auvergne-Rhône-Alpes,Web,2,59.51,Validée,PROD
+P2025-01039,2025-05-25,12,Occitanie,Commercial terrain,3,1292.76,Validée,PROD
+P2025-01040,2025-05-26,11,Auvergne-Rhône-Alpes,Téléphone,1,106.92,Validée,PROD
+P2025-01041,2025-05-27,1,Bretagne,Web,3,1584.36,Validée,PROD
+P2025-01042,2025-05-27,6,Nouvelle-Aquitaine,Partenaire,1,128.52,Validée,PROD
+P2025-01043,2025-05-29,5,Provence-Alpes-Côte d'Azur,Téléphone,1,193.32,Validée,PROD
+P2025-01044,2025-05-29,8,Grand Est,Partenaire,1,150.12,Validée,PROD
+P2025-01045,2025-05-29,9,Île-de-France,Commercial terrain,1,28.19,Validée,PROD
+P2025-01046,2025-05-29,11,Auvergne-Rhône-Alpes,Commercial terrain,2,192.46,Validée,PROD
+P2025-01047,2025-05-30,3,Hauts-de-France,Partenaire,1,144.83,Validée,PROD
+P2025-01048,2025-05-30,11,Île-de-France,Web,2,192.46,Validée,PROD
+P2025-01049,2025-05-31,1,Provence-Alpes-Côte d'Azur,Commercial terrain,2,1056.24,Validée,PROD
+P2025-01050,2025-05-31,6,Nouvelle-Aquitaine,Web,3,385.56,Validée,PROD
+P2025-01051,2025-06-01,4,Hauts-de-France,Téléphone,3,839.16,Validée,PROD
+P2025-01052,2025-06-01,6,Occitanie,Téléphone,1,128.52,Validée,PROD
+P2025-01053,2025-06-02,8,Occitanie,Téléphone,1,142.61,Validée,PROD
+P2025-01054,2025-06-02,10,Hauts-de-France,Partenaire,4,82.08,Validée,PROD
+P2025-01055,2025-06-03,4,Provence-Alpes-Côte d'Azur,Commercial terrain,4,1062.94,Validée,PROD
+P2025-01056,2025-06-03,7,Bretagne,Téléphone,1,63.72,Validée,PROD
+P2025-01057,2025-06-04,4,Auvergne-Rhône-Alpes,Partenaire,3,797.20,Validée,PROD
+P2025-01058,2025-06-04,11,Occitanie,Téléphone,1,106.92,Annulée,PROD
+P2025-01059,2025-06-05,2,Nouvelle-Aquitaine,Web,1,355.32,Validée,PROD
+P2025-01060,2025-06-06,9,Auvergne-Rhône-Alpes,Partenaire,1,29.75,Validée,PROD
+P2025-01061,2025-06-06,11,Grand Est,Téléphone,2,213.84,Validée,PROD
+P2025-01062,2025-06-07,1,Île-de-France,Commercial terrain,2,1056.24,Validée,PROD
+P2025-01063,2025-06-07,7,Île-de-France,Téléphone,2,121.07,Validée,PROD
+P2025-01064,2025-06-07,11,Auvergne-Rhône-Alpes,Partenaire,1,106.92,Validée,PROD
+P2025-01065,2025-06-10,5,Grand Est,Web,1,193.32,Validée,PROD
+P2025-01066,2025-06-11,2,Nouvelle-Aquitaine,Téléphone,3,1065.96,Validée,PROD
+P2025-01067,2025-06-11,12,Occitanie,Téléphone,1,430.92,Validée,PROD
+P2025-01068,2025-06-11,12,Occitanie,Partenaire,2,818.75,Validée,PROD
+P2025-01069,2025-06-13,9,Hauts-de-France,Partenaire,2,62.64,Validée,PROD
+P2025-01070,2025-06-13,11,Provence-Alpes-Côte d'Azur,Commercial terrain,1,96.23,Validée,PROD
+P2025-01071,2025-06-14,2,Bretagne,Téléphone,1,355.32,Validée,PROD
+P2025-01072,2025-06-14,2,Nouvelle-Aquitaine,Commercial terrain,2,710.64,Validée,PROD
+P2025-01073,2025-06-15,2,Provence-Alpes-Côte d'Azur,Téléphone,1,319.79,Validée,PROD
+P2025-01074,2025-06-15,2,Occitanie,Partenaire,2,710.64,Validée,PROD
+P2025-01075,2025-06-16,7,Hauts-de-France,Web,1,63.72,Validée,PROD
+P2025-01076,2025-06-19,2,Occitanie,Web,4,1279.15,Validée,PROD
+P2025-01077,2025-06-19,3,Occitanie,Commercial terrain,1,160.92,Validée,PROD
+P2025-01078,2025-06-19,4,Île-de-France,Téléphone,3,755.24,Validée,PROD
+P2025-01079,2025-06-19,5,Hauts-de-France,Web,1,193.32,Validée,PROD
+P2025-01080,2025-06-19,5,Auvergne-Rhône-Alpes,Commercial terrain,2,347.98,Validée,PROD
+P2025-01081,2025-06-19,6,Grand Est,Partenaire,4,462.67,Validée,PROD
+P2025-01082,2025-06-19,7,Grand Est,Web,4,229.39,Validée,PROD
+P2025-01083,2025-06-20,2,Grand Est,Partenaire,2,675.11,Validée,PROD
+P2025-01084,2025-06-20,5,Occitanie,Téléphone,1,193.32,Validée,PROD
+P2025-01085,2025-06-20,11,Grand Est,Commercial terrain,1,96.23,Annulée,PROD
+P2025-01086,2025-06-20,12,Bretagne,Partenaire,1,430.92,Validée,PROD
+P2025-01087,2025-06-20,12,Provence-Alpes-Côte d'Azur,Commercial terrain,2,775.66,Validée,PROD
+P2025-01088,2025-06-21,2,Provence-Alpes-Côte d'Azur,Téléphone,1,355.32,Validée,PROD
+P2025-01089,2025-06-21,2,Provence-Alpes-Côte d'Azur,Téléphone,2,675.11,Validée,PROD
+P2025-01090,2025-06-21,4,Hauts-de-France,Commercial terrain,3,839.16,Validée,PROD
+P2025-01091,2025-06-21,4,Nouvelle-Aquitaine,Téléphone,4,1006.99,Validée,PROD
+P2025-01092,2025-06-22,10,Île-de-France,Commercial terrain,2,41.04,Validée,PROD
+P2025-01093,2025-06-23,1,Grand Est,Téléphone,1,501.71,Validée,PROD
+P2025-01094,2025-06-23,2,Île-de-France,Commercial terrain,3,1065.96,Validée,PROD
+P2025-01095,2025-06-23,9,Provence-Alpes-Côte d'Azur,Web,2,62.64,Validée,PROD
+P2025-01096,2025-06-23,10,Occitanie,Web,2,38.99,Validée,PROD
+P2025-01097,2025-06-24,7,Nouvelle-Aquitaine,Téléphone,1,63.72,Validée,PROD
+P2025-01098,2025-06-24,8,Bretagne,Web,2,285.23,Validée,PROD
+P2025-01099,2025-06-24,10,Nouvelle-Aquitaine,Téléphone,2,36.94,Validée,PROD
+P2025-01100,2025-06-24,10,Hauts-de-France,Partenaire,3,61.56,Validée,PROD
+P2025-01101,2025-06-25,1,Grand Est,Commercial terrain,3,1584.36,Validée,PROD
+P2025-01102,2025-06-25,10,Auvergne-Rhône-Alpes,Commercial terrain,2,41.04,Validée,PROD
+P2025-01103,2025-06-26,5,Occitanie,Commercial terrain,1,183.65,Validée,PROD
+P2025-01104,2025-06-26,7,Île-de-France,Téléphone,1,60.53,Validée,PROD
+P2025-01105,2025-06-26,10,Provence-Alpes-Côte d'Azur,Partenaire,1,19.49,Validée,PROD
+P2025-01106,2025-06-27,7,Grand Est,Web,1,57.35,Validée,PROD
+P2025-01107,2025-06-27,12,Hauts-de-France,Téléphone,4,1637.50,Validée,PROD
+P2025-01108,2025-06-28,12,Grand Est,Commercial terrain,2,818.75,Validée,PROD
+P2025-01109,2025-06-29,4,Île-de-France,Web,1,251.75,Validée,PROD
+P2025-01110,2025-06-29,9,Bretagne,Web,4,112.75,Validée,PROD
+P2025-01111,2025-06-30,2,Auvergne-Rhône-Alpes,Commercial terrain,1,355.32,Validée,PROD
+P2025-01112,2025-06-30,2,Auvergne-Rhône-Alpes,Commercial terrain,1,355.32,Validée,PROD
+P2025-01113,2025-07-01,3,Provence-Alpes-Côte d'Azur,Téléphone,2,321.84,Annulée,PROD
+P2025-01114,2025-07-01,12,Provence-Alpes-Côte d'Azur,Téléphone,1,409.37,Validée,PROD
+P2025-01115,2025-07-04,1,Hauts-de-France,Téléphone,2,1003.43,Validée,PROD
+P2025-01116,2025-07-04,7,Île-de-France,Partenaire,2,127.44,Validée,PROD
+P2025-01117,2025-07-04,8,Île-de-France,Téléphone,1,135.11,Validée,PROD
+P2025-01118,2025-07-05,6,Bretagne,Téléphone,1,128.52,Validée,PROD
+P2025-01119,2025-07-05,12,Île-de-France,Partenaire,1,430.92,Validée,PROD
+P2025-01120,2025-07-07,11,Île-de-France,Commercial terrain,2,192.46,Validée,PROD
+P2025-01121,2025-07-08,4,Nouvelle-Aquitaine,Partenaire,4,1118.88,Validée,PROD
+P2025-01122,2025-07-10,1,Provence-Alpes-Côte d'Azur,Web,2,1056.24,Validée,PROD
+P2025-01123,2025-07-10,4,Provence-Alpes-Côte d'Azur,Partenaire,1,265.73,Validée,PROD
+P2025-01124,2025-07-10,11,Occitanie,Partenaire,1,101.57,Validée,PROD
+P2025-01125,2025-07-11,8,Bretagne,Commercial terrain,2,270.22,Validée,PROD
+P2025-01126,2025-07-12,8,Nouvelle-Aquitaine,Téléphone,1,150.12,Validée,PROD
+P2025-01127,2025-07-12,8,Auvergne-Rhône-Alpes,Téléphone,2,285.23,Validée,PROD
+P2025-01128,2025-07-14,6,Occitanie,Commercial terrain,3,385.56,Validée,PROD
+P2025-01129,2025-07-14,8,Nouvelle-Aquitaine,Partenaire,2,300.24,Validée,PROD
+P2025-01130,2025-07-15,5,Auvergne-Rhône-Alpes,Téléphone,3,550.96,Validée,PROD
+P2025-01131,2025-07-17,2,Provence-Alpes-Côte d'Azur,Partenaire,1,355.32,Validée,PROD
+P2025-01132,2025-07-17,5,Hauts-de-France,Web,1,193.32,Validée,PROD
+P2025-01133,2025-07-17,10,Provence-Alpes-Côte d'Azur,Partenaire,1,20.52,Validée,PROD
+P2025-01134,2025-07-17,12,Occitanie,Commercial terrain,2,775.66,Validée,PROD
+P2025-01135,2025-07-18,4,Provence-Alpes-Côte d'Azur,Partenaire,1,265.73,Validée,PROD
+P2025-01136,2025-07-18,8,Occitanie,Commercial terrain,1,150.12,Validée,PROD
+P2025-01137,2025-07-18,10,Provence-Alpes-Côte d'Azur,Commercial terrain,2,41.04,Validée,PROD
+P2025-01138,2025-07-18,12,Île-de-France,Commercial terrain,1,430.92,Validée,PROD
+P2025-01139,2025-07-19,2,Provence-Alpes-Côte d'Azur,Commercial terrain,2,710.64,Validée,PROD
+P2025-01140,2025-07-19,2,Bretagne,Partenaire,4,1421.28,Validée,PROD
+P2025-01141,2025-07-20,5,Occitanie,Téléphone,2,347.98,Validée,PROD
+P2025-01142,2025-07-20,6,Bretagne,Web,3,385.56,Validée,PROD
+P2025-01143,2025-07-21,8,Île-de-France,Web,1,135.11,Validée,PROD
+P2025-01144,2025-07-21,8,Provence-Alpes-Côte d'Azur,Web,2,300.24,Validée,PROD
+P2025-01145,2025-07-22,1,Provence-Alpes-Côte d'Azur,Commercial terrain,3,1584.36,Validée,PROD
+P2025-01146,2025-07-22,8,Nouvelle-Aquitaine,Téléphone,3,427.84,Validée,PROD
+P2025-01147,2025-07-23,4,Bretagne,Partenaire,1,279.72,Validée,PROD
+P2025-01148,2025-07-23,6,Provence-Alpes-Côte d'Azur,Partenaire,4,514.08,Validée,PROD
+P2025-01149,2025-07-23,8,Nouvelle-Aquitaine,Commercial terrain,1,150.12,Validée,PROD
+P2025-01150,2025-07-23,9,Hauts-de-France,Partenaire,2,62.64,Validée,PROD
+P2025-01151,2025-07-23,10,Occitanie,Téléphone,1,18.47,Validée,PROD
+P2025-01152,2025-07-23,10,Île-de-France,Téléphone,1,20.52,Validée,PROD
+P2025-01153,2025-07-23,12,Auvergne-Rhône-Alpes,Téléphone,4,1637.50,Annulée,PROD
+P2025-01154,2025-07-24,4,Bretagne,Partenaire,2,559.44,Validée,PROD
+P2025-01155,2025-07-24,5,Auvergne-Rhône-Alpes,Téléphone,3,579.96,Validée,PROD
+P2025-01156,2025-07-24,6,Provence-Alpes-Côte d'Azur,Web,1,122.09,Validée,PROD
+P2025-01157,2025-07-24,7,Auvergne-Rhône-Alpes,Téléphone,1,63.72,Validée,PROD
+P2025-01158,2025-07-24,8,Auvergne-Rhône-Alpes,Web,2,285.23,Annulée,PROD
+P2025-01159,2025-07-24,9,Bretagne,Commercial terrain,1,31.32,Validée,PROD
+P2025-01160,2025-07-24,12,Bretagne,Web,2,775.66,Validée,PROD
+P2025-01161,2025-07-25,3,Île-de-France,Partenaire,4,643.68,Validée,PROD
+P2025-01162,2025-07-25,11,Nouvelle-Aquitaine,Commercial terrain,1,106.92,Validée,PROD
+P2025-01163,2025-07-26,2,Bretagne,Commercial terrain,1,355.32,Validée,PROD
+P2025-01164,2025-07-26,8,Île-de-France,Partenaire,3,427.84,Validée,PROD
+P2025-01165,2025-07-27,3,Hauts-de-France,Partenaire,4,579.31,Validée,PROD
+P2025-01166,2025-07-27,4,Auvergne-Rhône-Alpes,Web,1,265.73,Validée,PROD
+P2025-01167,2025-07-28,5,Grand Est,Téléphone,4,773.28,Validée,PROD
+P2025-01168,2025-07-28,5,Grand Est,Commercial terrain,4,734.62,Validée,PROD
+P2025-01169,2025-07-28,9,Bretagne,Web,1,28.19,Validée,PROD
+P2025-01170,2025-07-29,2,Provence-Alpes-Côte d'Azur,Partenaire,2,710.64,Validée,PROD
+P2025-01171,2025-07-29,8,Auvergne-Rhône-Alpes,Web,1,142.61,Validée,PROD
+P2025-01172,2025-07-29,8,Auvergne-Rhône-Alpes,Téléphone,2,300.24,Validée,PROD
+P2025-01173,2025-07-30,1,Île-de-France,Téléphone,1,528.12,Validée,PROD
+P2025-01174,2025-07-30,2,Grand Est,Commercial terrain,3,1012.66,Validée,PROD
+P2025-01175,2025-07-30,4,Grand Est,Partenaire,2,559.44,Validée,PROD
+P2025-01176,2025-07-30,8,Nouvelle-Aquitaine,Partenaire,1,150.12,Validée,PROD
+P2025-01177,2025-07-31,11,Occitanie,Téléphone,1,106.92,Validée,PROD
+P2025-01178,2025-08-02,4,Auvergne-Rhône-Alpes,Téléphone,2,559.44,Validée,PROD
+P2025-01179,2025-08-02,6,Bretagne,Partenaire,2,257.04,Validée,PROD
+P2025-01180,2025-08-02,7,Nouvelle-Aquitaine,Web,4,242.14,Validée,PROD
+P2025-01181,2025-08-03,11,Grand Est,Téléphone,2,213.84,Validée,PROD
+P2025-01182,2025-08-04,5,Grand Est,Partenaire,3,579.96,Validée,PROD
+P2025-01183,2025-08-04,11,Hauts-de-France,Commercial terrain,4,427.68,Annulée,PROD
+P2025-01184,2025-08-05,6,Bretagne,Partenaire,1,128.52,Validée,PROD
+P2025-01185,2025-08-06,2,Hauts-de-France,Web,1,337.55,Validée,PROD
+P2025-01186,2025-08-06,4,Occitanie,Web,4,1006.99,Validée,PROD
+P2025-01187,2025-08-06,8,Provence-Alpes-Côte d'Azur,Web,1,150.12,Validée,PROD
+P2025-01188,2025-08-06,11,Île-de-France,Commercial terrain,1,106.92,Validée,PROD
+P2025-01189,2025-08-07,12,Nouvelle-Aquitaine,Partenaire,2,818.75,Validée,PROD
+P2025-01190,2025-08-08,2,Nouvelle-Aquitaine,Partenaire,2,639.58,Annulée,PROD
+P2025-01191,2025-08-09,8,Île-de-France,Commercial terrain,1,142.61,Validée,PROD
+P2025-01192,2025-08-10,12,Provence-Alpes-Côte d'Azur,Commercial terrain,1,430.92,Validée,PROD
+P2025-01193,2025-08-11,5,Nouvelle-Aquitaine,Web,1,183.65,Validée,PROD
+P2025-01194,2025-08-12,2,Nouvelle-Aquitaine,Web,4,1421.28,Validée,PROD
+P2025-01195,2025-08-12,5,Grand Est,Partenaire,1,173.99,Validée,PROD
+P2025-01196,2025-08-13,12,Occitanie,Téléphone,4,1551.31,Validée,PROD
+P2025-01197,2025-08-15,10,Bretagne,Téléphone,3,61.56,Validée,PROD
+P2025-01198,2025-08-16,12,Auvergne-Rhône-Alpes,Téléphone,2,818.75,Validée,PROD
+P2025-01199,2025-08-17,2,Grand Est,Commercial terrain,1,355.32,Validée,PROD
+P2025-01200,2025-08-18,3,Provence-Alpes-Côte d'Azur,Commercial terrain,1,152.87,Validée,PROD
+P2025-01201,2025-08-19,4,Île-de-France,Web,1,265.73,Validée,PROD
+P2025-01202,2025-08-20,1,Hauts-de-France,Web,4,2112.48,Validée,PROD
+P2025-01203,2025-08-20,2,Île-de-France,Partenaire,1,355.32,Validée,PROD
+P2025-01204,2025-08-20,3,Provence-Alpes-Côte d'Azur,Web,2,321.84,Validée,PROD
+P2025-01205,2025-08-21,9,Bretagne,Partenaire,2,62.64,Validée,PROD
+P2025-01206,2025-08-22,4,Hauts-de-France,Partenaire,1,279.72,Validée,PROD
+P2025-01207,2025-08-22,5,Occitanie,Commercial terrain,1,193.32,Validée,PROD
+P2025-01208,2025-08-23,3,Hauts-de-France,Partenaire,1,144.83,Validée,PROD
+P2025-01209,2025-08-23,8,Auvergne-Rhône-Alpes,Commercial terrain,1,135.11,Validée,PROD
+P2025-01210,2025-08-23,12,Provence-Alpes-Côte d'Azur,Web,4,1723.68,Validée,PROD
+P2025-01211,2025-08-24,4,Provence-Alpes-Côte d'Azur,Téléphone,2,559.44,Validée,PROD
+P2025-01212,2025-08-24,5,Hauts-de-France,Partenaire,3,550.96,Validée,PROD
+P2025-01213,2025-08-24,5,Provence-Alpes-Côte d'Azur,Commercial terrain,4,773.28,Validée,PROD
+P2025-01214,2025-08-25,1,Grand Est,Web,4,2006.86,Validée,PROD
+P2025-01215,2025-08-25,9,Auvergne-Rhône-Alpes,Téléphone,2,62.64,Annulée,PROD
+P2025-01216,2025-08-25,10,Nouvelle-Aquitaine,Commercial terrain,1,20.52,Validée,PROD
+P2025-01217,2025-08-25,11,Hauts-de-France,Partenaire,4,427.68,Validée,PROD
+P2025-01218,2025-08-26,2,Île-de-France,Téléphone,2,710.64,Validée,PROD
+P2025-01219,2025-08-26,10,Île-de-France,Web,4,82.08,Validée,PROD
+P2025-01220,2025-08-27,3,Auvergne-Rhône-Alpes,Partenaire,1,160.92,Validée,PROD
+P2025-01221,2025-08-28,4,Nouvelle-Aquitaine,Partenaire,2,559.44,Validée,PROD
+P2025-01222,2025-08-29,11,Bretagne,Commercial terrain,1,106.92,Validée,PROD
+P2025-01223,2025-08-30,2,Bretagne,Partenaire,1,355.32,Validée,PROD
+P2025-01224,2025-08-30,7,Auvergne-Rhône-Alpes,Web,1,63.72,Validée,PROD
+P2025-01225,2025-08-30,7,Provence-Alpes-Côte d'Azur,Web,3,191.16,Annulée,PROD
+P2025-01226,2025-08-30,12,Hauts-de-France,Commercial terrain,4,1723.68,Validée,PROD
+P2025-01227,2025-08-31,3,Bretagne,Web,4,643.68,Validée,PROD
+P2025-01228,2025-08-31,7,Provence-Alpes-Côte d'Azur,Commercial terrain,2,127.44,Validée,PROD
+P2025-01229,2025-08-31,8,Grand Est,Web,2,300.24,Validée,PROD
+P2025-01230,2025-09-01,9,Île-de-France,Web,2,62.64,Validée,PROD
+P2025-01231,2025-09-02,5,Auvergne-Rhône-Alpes,Partenaire,2,347.98,Validée,PROD
+P2025-01232,2025-09-02,12,Nouvelle-Aquitaine,Commercial terrain,1,409.37,Validée,PROD
+P2025-01233,2025-09-03,3,Bretagne,Partenaire,1,160.92,Validée,PROD
+P2025-01234,2025-09-04,8,Bretagne,Commercial terrain,1,142.61,Validée,PROD
+P2025-01235,2025-09-04,8,Hauts-de-France,Commercial terrain,2,300.24,Validée,PROD
+P2025-01236,2025-09-04,10,Bretagne,Commercial terrain,1,20.52,Validée,PROD
+P2025-01237,2025-09-04,11,Occitanie,Web,2,192.46,Validée,PROD
+P2025-01238,2025-09-05,4,Bretagne,Téléphone,4,1062.94,Validée,PROD
+P2025-01239,2025-09-05,10,Provence-Alpes-Côte d'Azur,Partenaire,2,41.04,Validée,PROD
+P2025-01240,2025-09-06,8,Hauts-de-France,Partenaire,1,150.12,Validée,PROD
+P2025-01241,2025-09-07,5,Hauts-de-France,Commercial terrain,3,579.96,Validée,PROD
+P2025-01242,2025-09-10,2,Grand Est,Téléphone,4,1279.15,Validée,PROD
+P2025-01243,2025-09-10,5,Grand Est,Commercial terrain,1,193.32,Validée,PROD
+P2025-01244,2025-09-11,10,Grand Est,Web,3,55.40,Validée,PROD
+P2025-01245,2025-09-11,12,Provence-Alpes-Côte d'Azur,Partenaire,1,409.37,Validée,PROD
+P2025-01246,2025-09-11,12,Île-de-France,Commercial terrain,1,387.83,Validée,PROD
+P2025-01247,2025-09-12,12,Grand Est,Commercial terrain,2,775.66,Validée,PROD
+P2025-01248,2025-09-13,3,Auvergne-Rhône-Alpes,Partenaire,1,152.87,Validée,PROD
+P2025-01249,2025-09-13,9,Île-de-France,Web,1,28.19,Validée,PROD
+P2025-01250,2025-09-14,5,Grand Est,Web,3,579.96,Validée,PROD
+P2025-01251,2025-09-15,2,Bretagne,Web,2,710.64,Validée,PROD
+P2025-01252,2025-09-15,10,Auvergne-Rhône-Alpes,Partenaire,2,41.04,Validée,PROD
+P2025-01253,2025-09-15,11,Nouvelle-Aquitaine,Commercial terrain,1,106.92,Validée,PROD
+P2025-01254,2025-09-16,1,Occitanie,Partenaire,2,1003.43,Validée,PROD
+P2025-01255,2025-09-16,8,Occitanie,Web,1,135.11,Validée,PROD
+P2025-01256,2025-09-17,10,Île-de-France,Partenaire,1,20.52,Validée,PROD
+P2025-01257,2025-09-18,6,Auvergne-Rhône-Alpes,Téléphone,1,115.67,Validée,PROD
+P2025-01258,2025-09-19,3,Nouvelle-Aquitaine,Commercial terrain,3,434.48,Validée,PROD
+P2025-01259,2025-09-20,1,Hauts-de-France,Web,2,950.62,Validée,PROD
+P2025-01260,2025-09-20,3,Nouvelle-Aquitaine,Commercial terrain,1,160.92,Annulée,PROD
+P2025-01261,2025-09-20,5,Bretagne,Partenaire,3,550.96,Validée,PROD
+P2025-01262,2025-09-20,9,Provence-Alpes-Côte d'Azur,Web,2,62.64,Annulée,PROD
+P2025-01263,2025-09-20,10,Hauts-de-France,Commercial terrain,3,58.48,Validée,PROD
+P2025-01264,2025-09-20,11,Provence-Alpes-Côte d'Azur,Web,2,203.15,Validée,PROD
+P2025-01265,2025-09-21,2,Occitanie,Web,4,1279.15,Validée,PROD
+P2025-01266,2025-09-21,5,Bretagne,Commercial terrain,3,579.96,Validée,PROD
+P2025-01267,2025-09-21,10,Auvergne-Rhône-Alpes,Partenaire,2,41.04,Validée,PROD
+P2025-01268,2025-09-22,1,Grand Est,Web,1,528.12,Validée,PROD
+P2025-01269,2025-09-22,9,Hauts-de-France,Téléphone,3,84.56,Validée,PROD
+P2025-01270,2025-09-22,10,Bretagne,Web,2,38.99,Validée,PROD
+P2025-01271,2025-09-22,11,Auvergne-Rhône-Alpes,Téléphone,3,304.72,Validée,PROD
+P2025-01272,2025-09-22,11,Bretagne,Commercial terrain,3,304.72,Validée,PROD
+P2025-01273,2025-09-23,5,Île-de-France,Partenaire,3,579.96,Validée,PROD
+P2025-01274,2025-09-23,5,Île-de-France,Commercial terrain,4,734.62,Validée,PROD
+P2025-01275,2025-09-23,6,Provence-Alpes-Côte d'Azur,Commercial terrain,1,128.52,Validée,PROD
+P2025-01276,2025-09-24,5,Auvergne-Rhône-Alpes,Web,1,193.32,Validée,PROD
+P2025-01277,2025-09-25,6,Hauts-de-France,Téléphone,1,128.52,Validée,PROD
+P2025-01278,2025-09-25,8,Hauts-de-France,Téléphone,3,427.84,Validée,PROD
+P2025-01279,2025-09-25,12,Occitanie,Commercial terrain,2,775.66,Validée,PROD
+P2025-01280,2025-09-26,4,Bretagne,Partenaire,2,503.50,Validée,PROD
+P2025-01281,2025-09-28,3,Île-de-France,Web,3,458.62,Validée,PROD
+P2025-01282,2025-09-28,10,Île-de-France,Web,4,82.08,Validée,PROD
+P2025-01283,2025-09-28,11,Auvergne-Rhône-Alpes,Web,3,304.72,Validée,PROD
+P2025-01284,2025-09-28,12,Grand Est,Web,1,430.92,Annulée,PROD
+P2025-01285,2025-09-29,6,Provence-Alpes-Côte d'Azur,Téléphone,2,244.19,Validée,PROD
+P2025-01286,2025-09-30,4,Provence-Alpes-Côte d'Azur,Web,2,531.47,Validée,PROD
+P2025-01287,2025-09-30,12,Hauts-de-France,Téléphone,1,430.92,Validée,PROD
+P2025-01288,2025-09-30,12,Île-de-France,Téléphone,2,775.66,Validée,PROD
+P2025-01289,2025-10-01,3,Hauts-de-France,Web,1,152.87,Validée,PROD
+P2025-01290,2025-10-02,3,Île-de-France,Partenaire,3,482.76,Validée,PROD
+P2025-01291,2025-10-02,6,Provence-Alpes-Côte d'Azur,Web,1,122.09,Validée,PROD
+P2025-01292,2025-10-02,9,Nouvelle-Aquitaine,Partenaire,2,56.38,Validée,PROD
+P2025-01293,2025-10-02,9,Occitanie,Téléphone,4,125.28,Validée,PROD
+P2025-01294,2025-10-02,10,Provence-Alpes-Côte d'Azur,Web,1,20.52,Validée,PROD
+P2025-01295,2025-10-02,10,Île-de-France,Téléphone,1,18.47,Validée,PROD
+P2025-01296,2025-10-02,11,Bretagne,Partenaire,2,213.84,Validée,PROD
+P2025-01297,2025-10-02,12,Grand Est,Commercial terrain,1,387.83,Validée,PROD
+P2025-01298,2025-10-03,2,Île-de-France,Web,2,710.64,Validée,PROD
+P2025-01299,2025-10-03,7,Bretagne,Web,2,121.07,Validée,PROD
+P2025-01300,2025-10-03,8,Île-de-France,Web,1,142.61,Validée,PROD
+P2025-01301,2025-10-04,1,Occitanie,Partenaire,4,1901.23,Validée,PROD
+P2025-01302,2025-10-04,6,Provence-Alpes-Côte d'Azur,Partenaire,3,347.00,Validée,PROD
+P2025-01303,2025-10-04,7,Provence-Alpes-Côte d'Azur,Partenaire,1,63.72,Validée,PROD
+P2025-01304,2025-10-04,9,Hauts-de-France,Téléphone,3,93.96,Validée,PROD
+P2025-01305,2025-10-04,10,Occitanie,Web,1,19.49,Validée,PROD
+P2025-01306,2025-10-05,6,Île-de-France,Web,2,244.19,Annulée,PROD
+P2025-01307,2025-10-05,8,Occitanie,Web,1,135.11,Validée,PROD
+P2025-01308,2025-10-05,9,Occitanie,Téléphone,1,29.75,Validée,PROD
+P2025-01309,2025-10-06,1,Hauts-de-France,Commercial terrain,3,1425.92,Validée,PROD
+P2025-01310,2025-10-08,10,Provence-Alpes-Côte d'Azur,Partenaire,2,41.04,Validée,PROD
+P2025-01311,2025-10-09,6,Occitanie,Téléphone,2,257.04,Validée,PROD
+P2025-01312,2025-10-10,7,Île-de-France,Téléphone,2,127.44,Validée,PROD
+P2025-01313,2025-10-10,12,Île-de-France,Commercial terrain,2,861.84,Validée,PROD
+P2025-01314,2025-10-11,6,Hauts-de-France,Web,2,257.04,Validée,PROD
+P2025-01315,2025-10-11,7,Auvergne-Rhône-Alpes,Web,1,63.72,Validée,PROD
+P2025-01316,2025-10-11,11,Bretagne,Commercial terrain,1,101.57,Annulée,PROD
+P2025-01317,2025-10-12,3,Hauts-de-France,Commercial terrain,1,144.83,Validée,PROD
+P2025-01318,2025-10-12,3,Grand Est,Web,3,458.62,Validée,PROD
+P2025-01319,2025-10-12,5,Hauts-de-France,Web,2,347.98,Validée,PROD
+P2025-01320,2025-10-12,10,Hauts-de-France,Partenaire,1,20.52,Validée,PROD
+P2025-01321,2025-10-12,10,Occitanie,Commercial terrain,1,18.47,Validée,PROD
+P2025-01322,2025-10-12,12,Occitanie,Partenaire,1,430.92,Annulée,PROD
+P2025-01323,2025-10-12,12,Provence-Alpes-Côte d'Azur,Web,1,430.92,Validée,PROD
+P2025-01324,2025-10-13,4,Île-de-France,Partenaire,3,839.16,Validée,PROD
+P2025-01325,2025-10-14,5,Île-de-France,Téléphone,1,183.65,Validée,PROD
+P2025-01326,2025-10-14,10,Auvergne-Rhône-Alpes,Web,1,18.47,Validée,PROD
+P2025-01327,2025-10-14,11,Occitanie,Téléphone,1,106.92,Validée,PROD
+P2025-01328,2025-10-15,5,Hauts-de-France,Commercial terrain,2,386.64,Validée,PROD
+P2025-01329,2025-10-15,6,Bretagne,Web,4,514.08,Validée,PROD
+P2025-01330,2025-10-15,7,Hauts-de-France,Web,4,229.39,Annulée,PROD
+P2025-01331,2025-10-15,12,Auvergne-Rhône-Alpes,Web,1,387.83,Validée,PROD
+P2025-01332,2025-10-16,2,Île-de-France,Web,3,1012.66,Validée,PROD
+P2025-01333,2025-10-16,3,Hauts-de-France,Téléphone,3,482.76,Validée,PROD
+P2025-01334,2025-10-16,5,Hauts-de-France,Web,1,193.32,Validée,PROD
+P2025-01335,2025-10-16,11,Auvergne-Rhône-Alpes,Commercial terrain,2,192.46,Validée,PROD
+P2025-01336,2025-10-17,12,Provence-Alpes-Côte d'Azur,Partenaire,1,430.92,Validée,PROD
+P2025-01337,2025-10-18,2,Nouvelle-Aquitaine,Partenaire,1,355.32,Validée,PROD
+P2025-01338,2025-10-18,5,Hauts-de-France,Commercial terrain,2,367.31,Validée,PROD
+P2025-01339,2025-10-18,12,Bretagne,Web,1,430.92,Validée,PROD
+P2025-01340,2025-10-19,3,Auvergne-Rhône-Alpes,Partenaire,1,160.92,Validée,PROD
+P2025-01341,2025-10-19,4,Auvergne-Rhône-Alpes,Partenaire,1,279.72,Validée,PROD
+P2025-01342,2025-10-20,1,Grand Est,Partenaire,4,1901.23,Validée,PROD
+P2025-01343,2025-10-20,8,Bretagne,Commercial terrain,2,300.24,Validée,PROD
+P2025-01344,2025-10-21,5,Île-de-France,Commercial terrain,1,173.99,Validée,PROD
+P2025-01345,2025-10-23,8,Hauts-de-France,Partenaire,2,300.24,Validée,PROD
+P2025-01346,2025-10-24,12,Île-de-France,Web,1,387.83,Validée,PROD
+P2025-01347,2025-10-25,5,Grand Est,Téléphone,4,773.28,Validée,PROD
+P2025-01348,2025-10-25,7,Provence-Alpes-Côte d'Azur,Téléphone,3,172.04,Validée,PROD
+P2025-01349,2025-10-26,3,Hauts-de-France,Téléphone,2,321.84,Validée,PROD
+P2025-01350,2025-10-26,7,Grand Est,Commercial terrain,2,127.44,Validée,PROD
+P2025-01351,2025-10-26,8,Occitanie,Commercial terrain,1,142.61,Validée,PROD
+P2025-01352,2025-10-26,8,Hauts-de-France,Web,4,600.48,Validée,PROD
+P2025-01353,2025-10-27,8,Provence-Alpes-Côte d'Azur,Commercial terrain,1,150.12,Validée,PROD
+P2025-01354,2025-10-27,11,Provence-Alpes-Côte d'Azur,Partenaire,1,106.92,Validée,PROD
+P2025-01355,2025-10-28,1,Bretagne,Web,1,475.31,Validée,PROD
+P2025-01356,2025-10-28,5,Occitanie,Commercial terrain,2,386.64,Validée,PROD
+P2025-01357,2025-10-28,8,Occitanie,Partenaire,4,600.48,Validée,PROD
+P2025-01358,2025-10-28,9,Nouvelle-Aquitaine,Téléphone,2,62.64,Validée,PROD
+P2025-01359,2025-10-28,9,Occitanie,Commercial terrain,2,56.38,Validée,PROD
+P2025-01360,2025-10-29,7,Bretagne,Téléphone,1,57.35,Validée,PROD
+P2025-01361,2025-10-29,8,Auvergne-Rhône-Alpes,Téléphone,4,600.48,Validée,PROD
+P2025-01362,2025-10-30,1,Provence-Alpes-Côte d'Azur,Partenaire,3,1584.36,Annulée,PROD
+P2025-01363,2025-10-30,1,Grand Est,Téléphone,4,1901.23,Validée,PROD
+P2025-01364,2025-10-30,6,Grand Est,Partenaire,1,115.67,Validée,PROD
+P2025-01365,2025-10-30,12,Provence-Alpes-Côte d'Azur,Partenaire,2,861.84,Validée,PROD
+P2025-01366,2025-10-31,7,Bretagne,Web,1,57.35,Validée,PROD
+P2025-01367,2025-10-31,9,Hauts-de-France,Web,2,62.64,Validée,PROD
+P2025-01368,2025-10-31,10,Île-de-France,Commercial terrain,1,20.52,Validée,PROD
+P2025-01369,2025-10-31,11,Occitanie,Web,2,213.84,Validée,PROD
+P2025-01370,2025-11-01,12,Nouvelle-Aquitaine,Téléphone,4,1723.68,Validée,PROD
+P2025-01371,2025-11-02,6,Bretagne,Téléphone,3,366.28,Validée,PROD
+P2025-01372,2025-11-04,10,Auvergne-Rhône-Alpes,Commercial terrain,1,19.49,Annulée,PROD
+P2025-01373,2025-11-05,3,Bretagne,Commercial terrain,1,160.92,Validée,PROD
+P2025-01374,2025-11-05,3,Grand Est,Web,2,321.84,Validée,PROD
+P2025-01375,2025-11-05,10,Nouvelle-Aquitaine,Téléphone,2,41.04,Validée,PROD
+P2025-01376,2025-11-05,11,Occitanie,Commercial terrain,1,106.92,Validée,PROD
+P2025-01377,2025-11-05,12,Grand Est,Téléphone,2,775.66,Validée,PROD
+P2025-01378,2025-11-06,2,Provence-Alpes-Côte d'Azur,Web,3,959.36,Annulée,PROD
+P2025-01379,2025-11-06,8,Occitanie,Téléphone,2,270.22,Validée,PROD
+P2025-01380,2025-11-07,2,Occitanie,Partenaire,2,710.64,Validée,PROD
+P2025-01381,2025-11-07,10,Nouvelle-Aquitaine,Commercial terrain,4,82.08,Validée,PROD
+P2025-01382,2025-11-08,1,Grand Est,Téléphone,1,475.31,Validée,PROD
+P2025-01383,2025-11-08,12,Île-de-France,Téléphone,1,430.92,Validée,PROD
+P2025-01384,2025-11-08,12,Occitanie,Téléphone,3,1228.12,Validée,PROD
+P2025-01385,2025-11-09,3,Grand Est,Web,1,144.83,Validée,PROD
+P2025-01386,2025-11-09,7,Nouvelle-Aquitaine,Partenaire,4,254.88,Validée,PROD
+P2025-01387,2025-11-11,6,Hauts-de-France,Commercial terrain,4,514.08,Validée,PROD
+P2025-01388,2025-11-11,10,Provence-Alpes-Côte d'Azur,Téléphone,2,36.94,Validée,PROD
+P2025-01389,2025-11-12,2,Île-de-France,Web,4,1421.28,Validée,PROD
+P2025-01390,2025-11-13,5,Grand Est,Web,2,347.98,Validée,PROD
+P2025-01391,2025-11-13,7,Auvergne-Rhône-Alpes,Commercial terrain,3,191.16,Validée,PROD
+P2025-01392,2025-11-14,1,Bretagne,Téléphone,2,950.62,Validée,PROD
+P2025-01393,2025-11-14,5,Grand Est,Web,2,386.64,Validée,PROD
+P2025-01394,2025-11-14,8,Grand Est,Commercial terrain,2,285.23,Validée,PROD
+P2025-01395,2025-11-15,9,Île-de-France,Partenaire,1,31.32,Validée,PROD
+P2025-01396,2025-11-15,12,Grand Est,Web,1,430.92,Validée,PROD
+P2025-01397,2025-11-16,5,Hauts-de-France,Commercial terrain,1,193.32,Validée,PROD
+P2025-01398,2025-11-16,7,Hauts-de-France,Commercial terrain,4,242.14,Validée,PROD
+P2025-01399,2025-11-16,12,Bretagne,Web,2,861.84,Validée,PROD
+P2025-01400,2025-11-17,1,Hauts-de-France,Téléphone,1,528.12,Validée,PROD
+P2025-01401,2025-11-17,2,Occitanie,Partenaire,1,337.55,Validée,PROD
+P2025-01402,2025-11-17,3,Hauts-de-France,Téléphone,2,305.75,Validée,PROD
+P2025-01403,2025-11-17,6,Île-de-France,Téléphone,2,257.04,Validée,PROD
+P2025-01404,2025-11-17,9,Provence-Alpes-Côte d'Azur,Partenaire,1,31.32,Annulée,PROD
+P2025-01405,2025-11-17,10,Auvergne-Rhône-Alpes,Téléphone,3,61.56,Validée,PROD
+P2025-01406,2025-11-18,3,Occitanie,Commercial terrain,4,643.68,Validée,PROD
+P2025-01407,2025-11-18,11,Auvergne-Rhône-Alpes,Web,3,320.76,Validée,PROD
+P2025-01408,2025-11-19,6,Nouvelle-Aquitaine,Web,1,122.09,Validée,PROD
+P2025-01409,2025-11-19,8,Occitanie,Partenaire,2,300.24,Validée,PROD
+P2025-01410,2025-11-20,2,Nouvelle-Aquitaine,Téléphone,1,355.32,Validée,PROD
+P2025-01411,2025-11-21,4,Hauts-de-France,Partenaire,1,279.72,Validée,PROD
+P2025-01412,2025-11-21,6,Occitanie,Téléphone,1,122.09,Validée,PROD
+P2025-01413,2025-11-21,9,Hauts-de-France,Commercial terrain,1,28.19,Validée,PROD
+P2025-01414,2025-11-22,2,Hauts-de-France,Partenaire,1,337.55,Validée,PROD
+P2025-01415,2025-11-22,3,Occitanie,Partenaire,1,144.83,Validée,PROD
+P2025-01416,2025-11-22,3,Nouvelle-Aquitaine,Partenaire,2,321.84,Validée,PROD
+P2025-01417,2025-11-22,8,Hauts-de-France,Commercial terrain,1,150.12,Validée,PROD
+P2025-01418,2025-11-22,9,Bretagne,Commercial terrain,4,125.28,Validée,PROD
+P2025-01419,2025-11-22,9,Occitanie,Partenaire,4,125.28,Validée,PROD
+P2025-01420,2025-11-22,11,Occitanie,Web,1,106.92,Validée,PROD
+P2025-01421,2025-11-23,5,Occitanie,Web,2,347.98,Validée,PROD
+P2025-01422,2025-11-24,6,Hauts-de-France,Téléphone,2,257.04,Validée,PROD
+P2025-01423,2025-11-24,12,Occitanie,Téléphone,1,430.92,Validée,PROD
+P2025-01424,2025-11-26,5,Nouvelle-Aquitaine,Commercial terrain,2,386.64,Validée,PROD
+P2025-01425,2025-11-26,10,Hauts-de-France,Téléphone,1,20.52,Validée,PROD
+P2025-01426,2025-11-27,1,Nouvelle-Aquitaine,Partenaire,1,475.31,Validée,PROD
+P2025-01427,2025-11-27,5,Provence-Alpes-Côte d'Azur,Téléphone,1,193.32,Validée,PROD
+P2025-01428,2025-11-27,5,Grand Est,Téléphone,2,367.31,Validée,PROD
+P2025-01429,2025-11-27,7,Occitanie,Commercial terrain,1,57.35,Validée,PROD
+P2025-01430,2025-11-27,11,Hauts-de-France,Web,2,213.84,Validée,PROD
+P2025-01431,2025-11-28,6,Bretagne,Partenaire,2,257.04,Validée,PROD
+P2025-01432,2025-11-28,8,Nouvelle-Aquitaine,Partenaire,2,285.23,Validée,PROD
+P2025-01433,2025-11-29,5,Île-de-France,Partenaire,4,734.62,Validée,PROD
+P2025-01434,2025-11-30,1,Bretagne,Partenaire,4,2112.48,Validée,PROD
+P2025-01435,2025-11-30,4,Provence-Alpes-Côte d'Azur,Téléphone,2,559.44,Validée,PROD
+P2025-01436,2025-11-30,11,Grand Est,Commercial terrain,1,96.23,Validée,PROD
+P2025-01437,2025-12-02,3,Occitanie,Web,1,152.87,Annulée,PROD
+P2025-01438,2025-12-02,9,Nouvelle-Aquitaine,Commercial terrain,2,59.51,Validée,PROD
+P2025-01439,2025-12-02,11,Hauts-de-France,Web,3,288.68,Validée,PROD
+P2025-01440,2025-12-02,12,Île-de-France,Partenaire,1,409.37,Validée,PROD
+P2025-01441,2025-12-03,9,Auvergne-Rhône-Alpes,Commercial terrain,1,31.32,Validée,PROD
+P2025-01442,2025-12-04,5,Hauts-de-France,Téléphone,2,386.64,Annulée,PROD
+P2025-01443,2025-12-05,5,Nouvelle-Aquitaine,Web,2,386.64,Validée,PROD
+P2025-01444,2025-12-05,8,Île-de-France,Téléphone,1,150.12,Validée,PROD
+P2025-01445,2025-12-06,6,Grand Est,Partenaire,1,128.52,Validée,PROD
+P2025-01446,2025-12-06,9,Île-de-France,Téléphone,4,125.28,Validée,PROD
+P2025-01447,2025-12-07,5,Bretagne,Partenaire,1,183.65,Validée,PROD
+P2025-01448,2025-12-08,2,Bretagne,Web,2,639.58,Validée,PROD
+P2025-01449,2025-12-08,8,Occitanie,Téléphone,1,150.12,Validée,PROD
+P2025-01450,2025-12-08,11,Nouvelle-Aquitaine,Web,1,96.23,Validée,PROD
+P2025-01451,2025-12-09,1,Provence-Alpes-Côte d'Azur,Partenaire,1,501.71,Validée,PROD
+P2025-01452,2025-12-09,8,Auvergne-Rhône-Alpes,Commercial terrain,1,150.12,Validée,PROD
+P2025-01453,2025-12-10,9,Occitanie,Téléphone,1,31.32,Validée,PROD
+P2025-01454,2025-12-11,5,Hauts-de-France,Web,4,773.28,Validée,PROD
+P2025-01455,2025-12-11,7,Bretagne,Partenaire,2,127.44,Annulée,PROD
+P2025-01456,2025-12-11,9,Île-de-France,Web,1,28.19,Validée,PROD
+P2025-01457,2025-12-12,5,Nouvelle-Aquitaine,Téléphone,1,193.32,Validée,PROD
+P2025-01458,2025-12-12,11,Nouvelle-Aquitaine,Commercial terrain,4,427.68,Validée,PROD
+P2025-01459,2025-12-12,12,Provence-Alpes-Côte d'Azur,Commercial terrain,4,1723.68,Validée,PROD
+P2025-01460,2025-12-13,8,Nouvelle-Aquitaine,Commercial terrain,1,150.12,Validée,PROD
+P2025-01461,2025-12-15,2,Hauts-de-France,Web,3,959.36,Validée,PROD
+P2025-01462,2025-12-15,10,Grand Est,Web,1,20.52,Validée,PROD
+P2025-01463,2025-12-15,11,Bretagne,Web,2,213.84,Validée,PROD
+P2025-01464,2025-12-16,2,Auvergne-Rhône-Alpes,Commercial terrain,2,710.64,Validée,PROD
+P2025-01465,2025-12-16,9,Île-de-France,Web,3,93.96,Validée,PROD
+P2025-01466,2025-12-16,11,Hauts-de-France,Téléphone,1,101.57,Validée,PROD
+P2025-01467,2025-12-17,4,Bretagne,Téléphone,1,279.72,Validée,PROD
+P2025-01468,2025-12-18,6,Nouvelle-Aquitaine,Commercial terrain,2,257.04,Validée,PROD
+P2025-01469,2025-12-18,7,Île-de-France,Partenaire,2,127.44,Validée,PROD
+P2025-01470,2025-12-18,10,Bretagne,Commercial terrain,1,20.52,Validée,PROD
+P2025-01471,2025-12-19,3,Nouvelle-Aquitaine,Commercial terrain,1,160.92,Validée,PROD
+P2025-01472,2025-12-19,5,Provence-Alpes-Côte d'Azur,Commercial terrain,3,521.96,Validée,PROD
+P2025-01473,2025-12-19,11,Occitanie,Téléphone,1,106.92,Validée,PROD
+P2025-01474,2025-12-20,6,Nouvelle-Aquitaine,Commercial terrain,4,462.67,Validée,PROD
+P2025-01475,2025-12-20,7,Occitanie,Téléphone,1,60.53,Validée,PROD
+P2025-01476,2025-12-20,7,Grand Est,Commercial terrain,2,127.44,Validée,PROD
+P2025-01477,2025-12-20,12,Occitanie,Commercial terrain,2,861.84,Validée,PROD
+P2025-01478,2025-12-21,4,Hauts-de-France,Partenaire,2,503.50,Validée,PROD
+P2025-01479,2025-12-21,6,Île-de-France,Téléphone,1,122.09,Validée,PROD
+P2025-01480,2025-12-22,2,Nouvelle-Aquitaine,Téléphone,3,959.36,Validée,PROD
+P2025-01481,2025-12-22,2,Nouvelle-Aquitaine,Téléphone,4,1421.28,Validée,PROD
+P2025-01482,2025-12-22,6,Bretagne,Web,2,257.04,Validée,PROD
+P2025-01483,2025-12-23,6,Bretagne,Commercial terrain,1,128.52,Validée,PROD
+P2025-01484,2025-12-23,7,Provence-Alpes-Côte d'Azur,Partenaire,2,127.44,Validée,PROD
+P2025-01485,2025-12-23,8,Île-de-France,Téléphone,1,150.12,Annulée,PROD
+P2025-01486,2025-12-23,9,Occitanie,Téléphone,2,59.51,Validée,PROD
+P2025-01487,2025-12-24,5,Grand Est,Téléphone,1,193.32,Validée,PROD
+P2025-01488,2025-12-24,5,Nouvelle-Aquitaine,Partenaire,4,695.95,Validée,PROD
+P2025-01489,2025-12-24,9,Nouvelle-Aquitaine,Téléphone,2,62.64,Validée,PROD
+P2025-01490,2025-12-24,12,Occitanie,Partenaire,1,387.83,Validée,PROD
+P2025-01491,2025-12-25,8,Provence-Alpes-Côte d'Azur,Commercial terrain,1,150.12,Validée,PROD
+P2025-01492,2025-12-26,1,Auvergne-Rhône-Alpes,Commercial terrain,1,528.12,Validée,PROD
+P2025-01493,2025-12-26,10,Auvergne-Rhône-Alpes,Téléphone,3,58.48,Validée,PROD
+P2025-01494,2025-12-27,6,Île-de-France,Web,1,128.52,Validée,PROD
+P2025-01495,2025-12-27,6,Île-de-France,Commercial terrain,3,366.28,Validée,PROD
+P2025-01496,2025-12-27,12,Grand Est,Partenaire,3,1292.76,Validée,PROD
+P2025-01497,2025-12-28,1,Nouvelle-Aquitaine,Commercial terrain,1,528.12,Annulée,PROD
+P2025-01498,2025-12-28,9,Hauts-de-France,Web,2,59.51,Validée,PROD
+P2025-01499,2025-12-29,4,Provence-Alpes-Côte d'Azur,Web,4,1006.99,Validée,PROD
+P2025-01500,2025-12-31,12,Grand Est,Téléphone,3,1292.76,Validée,PROD
